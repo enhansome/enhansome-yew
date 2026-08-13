@@ -1,0 +1,2451 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yew",
+          "description": "Rust / WebAssembly framework for building client web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T23:32:55Z",
+            "owner": "yewstack",
+            "repo": "yew",
+            "stars": 32783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Examples",
+          "description": "Smaller examples included in official repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T23:32:55Z",
+            "owner": "yewstack",
+            "repo": "yew",
+            "stars": 32783
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "candle-wasm-examples",
+          "description": "Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: whisper, LLaMA2, T5, yolo, Segment Anything.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T18:46:32Z",
+            "owner": "huggingface",
+            "repo": "candle",
+            "stars": 20896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Iggy",
+          "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:19:09Z",
+            "owner": "apache",
+            "repo": "iggy",
+            "stars": 4504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webapp.rs",
+          "description": "A web application completely written in Rust, frontend is built with Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:14:23Z",
+            "owner": "saschagrunert",
+            "repo": "webapp.rs",
+            "stars": 2245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoom-rs",
+          "description": "Zoom clone written in rust for research purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T10:57:52Z",
+            "owner": "security-union",
+            "repo": "videocall-rs",
+            "stars": 1776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust-Full-Stack",
+          "description": "Easily testable and working Rust codes with blog posts to explain them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-05-10T09:50:06Z",
+            "owner": "steadylearner",
+            "repo": "Rust-Full-Stack",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxelar",
+          "description": "Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T09:08:48Z",
+            "owner": "emanuele-em",
+            "repo": "proxelar",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PinePods",
+          "description": "PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T13:26:14Z",
+            "owner": "madeofpendletonwool",
+            "repo": "PinePods",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Realworld example",
+          "description": "Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest and . It also supports desktop application powered by Tauri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-16T03:05:13Z",
+            "owner": "jetli",
+            "repo": "rust-yew-realworld-example-app",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentry Relay",
+          "description": "The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:52:49Z",
+            "owner": "getsentry",
+            "repo": "relay",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spaceman",
+          "description": "Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-23T14:52:33Z",
+            "owner": "eliaperantoni",
+            "repo": "spaceman",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zzhack",
+          "description": "A personal blog, based on Rust & Yew, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-14T11:13:45Z",
+            "owner": "mistricky",
+            "repo": "zzhack",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ubiquity",
+          "description": "An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. Web App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-01T13:03:01Z",
+            "owner": "opensourcecheemsburgers",
+            "repo": "ubiquity",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustMart",
+          "description": "Single Page Application (SPA) written using Rust, Wasm and Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-08-31T05:10:21Z",
+            "owner": "sheshbabu",
+            "repo": "rustmart-yew-example",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tchatche.rs",
+          "description": "A Websocket chat based application built in Yew and Axum.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-04-17T13:54:05Z",
+            "owner": "nag763",
+            "repo": "tchatchers",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taxy",
+          "description": "A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-06T09:17:03Z",
+            "owner": "picoHz",
+            "repo": "taxy",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crabtyper",
+          "description": "A speedtyping web app written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-08-25T14:13:46Z",
+            "owner": "crabtyper",
+            "repo": "crabtyper",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caniuse.rs",
+          "description": "Rust feature search.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-05-13T10:10:50Z",
+            "owner": "jplatte",
+            "repo": "caniuse.rs",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Wasefire",
+          "description": "Secure firmware framework focusing on developer experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T09:04:03Z",
+            "owner": "google",
+            "repo": "wasefire",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiomet",
+          "description": "An online real-time strategy game in which you expand your territory by capturing towers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-10T02:21:14Z",
+            "owner": "SoftbearStudios",
+            "repo": "kiomet",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "karaoke-rs",
+          "description": "A simple, network enabled karaoke player in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-08T22:37:14Z",
+            "owner": "tarkah",
+            "repo": "karaoke-rs",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-styles-page",
+          "description": "This is an initial project of a framework style for yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-20T23:12:25Z",
+            "owner": "spielcrypto",
+            "repo": "yew_styles",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasm-2048",
+          "description": "2048 game implemented with Rust and Yew and compiled to Wasm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-12-30T12:09:08Z",
+            "owner": "dev-family",
+            "repo": "wasm-2048",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diff.rs",
+          "description": "Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-23T09:52:23Z",
+            "owner": "xfbs",
+            "repo": "diff.rs",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chipbox",
+          "description": "chipbox is an open-source desktop DAW written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-24T17:14:42Z",
+            "owner": "chipnertkj",
+            "repo": "chipbox",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust algorithms",
+          "description": "A website with interactive implementations of various algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-17T15:10:02Z",
+            "owner": "Jondolf",
+            "repo": "Algorust",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yew-WebRTC-Chat",
+          "description": "A simple WebRTC chat made with Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-17T11:36:50Z",
+            "owner": "codec-abc",
+            "repo": "Yew-WebRTC-Chat",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CubeShuffle",
+          "description": "Card game shuffling utility built with Rust, Yew, Bulma and Tauri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-24T19:04:33Z",
+            "owner": "philipborg",
+            "repo": "CubeShuffle",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-view todomvc desktop app",
+          "description": "Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(~2mb) desktop app by web-view, as an alternative to Electron, web-view also has a demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-20T22:02:48Z",
+            "owner": "extrawurst",
+            "repo": "rust-webview-todomvc-yew",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "live-ask.com",
+          "description": "Realtime Event/Meetup Q&A Platform. Live at live-ask.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-14T05:59:48Z",
+            "owner": "liveask",
+            "repo": "liveask",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syre",
+          "description": "Scientific data management and insights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-08T07:40:20Z",
+            "owner": "syre-data",
+            "repo": "syre",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Macige",
+          "description": "CI workflow generator for mobile app development, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-06-07T21:45:25Z",
+            "owner": "tramlinehq",
+            "repo": "macige",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fullstack-Rust",
+          "description": "A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-09T14:44:47Z",
+            "owner": "vascokk",
+            "repo": "fullstack-rust",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustedLessPass",
+          "description": "A stateless password manager. Web App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T18:20:29Z",
+            "owner": "RustedLessPass",
+            "repo": "RustedLessPass",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mindsweeper",
+          "description": "A principled take on minesweeper, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-30T05:31:19Z",
+            "owner": "AlexBuz",
+            "repo": "mindsweeper",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simply-view-image-for-python-debugging",
+          "description": "Visual studio code extension simply view the image of the image variables when debugging python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T04:36:57Z",
+            "owner": "elazarcoh",
+            "repo": "simply-view-image-for-python-debugging",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hurlurl",
+          "description": "A randomizing link shortener, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-25T06:56:15Z",
+            "owner": "lucasmerlin",
+            "repo": "hurlurl",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-react-example",
+          "description": "This project shows how to create a web app using a React component inside a Yew component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-17T10:18:35Z",
+            "owner": "hobofan",
+            "repo": "yew-react-example",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SandCat",
+          "description": "The software has primarily implemented the basic functionalities of an IM application, which includes a fundamental friend system, one-on-one chat, group chat, and one-on-one audio/video calls. It also supports i18n and currently offers a switch between Chinese and English.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-16T14:36:27Z",
+            "owner": "Xu-Mj",
+            "repo": "sandcat",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blog-rs",
+          "description": "A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-11-29T03:31:30Z",
+            "owner": "songday",
+            "repo": "blog-rs",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yew Fullstack Boilerplate",
+          "description": "Highly opinionated boilerplate for creating full stack applications with Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-07T18:54:09Z",
+            "owner": "lukidoescode",
+            "repo": "yew-fullstack-boilerplate",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "website-wasm",
+          "description": "My personal website written in Rust via Yew/Wasm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-03-03T14:25:54Z",
+            "owner": "kamiyaa",
+            "repo": "website-wasm",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flow.er",
+          "description": "A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-05-24T13:16:46Z",
+            "owner": "LighghtEeloo",
+            "repo": "flow.er",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Audio",
+          "description": "Realtime audio processing / synthesis using Rust/WASM in the browser, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-23T03:16:31Z",
+            "owner": "austintheriot",
+            "repo": "resonix",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surfer",
+          "description": "A blog built on yew + graphql, with live demo site. Backend for graphql services, and frontend for web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-08T09:56:43Z",
+            "owner": "zzy",
+            "repo": "surfer",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-async-wasm-demo",
+          "description": "Toy project to learn Rust and async that can be deployed to the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-07T08:33:39Z",
+            "owner": "extraymond",
+            "repo": "rust-async-wasm-demo",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kirk",
+          "description": "Just A Rust WebAssembly Blog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-12-11T14:15:39Z",
+            "owner": "stkevintan",
+            "repo": "Kirk",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tide-async-graphql-mongodb",
+          "description": "Clean boilerplate for graphql services, with wasm/yew frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-08T09:52:12Z",
+            "owner": "zzy",
+            "repo": "tide-async-graphql-mongodb",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paudle",
+          "description": "A reimplementation of the excellent word game Wordle by Josh Wardle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-10-11T02:03:44Z",
+            "owner": "pmsanford",
+            "repo": "paudle",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevAndDev",
+          "description": "A website where developers can find pair-programming partners. Written in Rust, Yew frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-24T14:41:14Z",
+            "owner": "alepez",
+            "repo": "devand",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto-helper",
+          "description": "Web app that can hash, encrypt, and sign the data on the client side. Also includes a JWT debugger. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T11:09:24Z",
+            "owner": "TheBestTvarynka",
+            "repo": "crypto-helper",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minesweeper",
+          "description": "Minesweeper built with Rust, Yew and WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-04T00:46:53Z",
+            "owner": "jgpaiva",
+            "repo": "minesweeper",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipe",
+          "description": "This is a Rust / Wasm client web app which is a task control center.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-09-21T08:01:10Z",
+            "owner": "pipe-fun",
+            "repo": "pipe",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scap-rs",
+          "description": "National Vulnerability Database (NVD) implemented by Rust, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-01T07:54:15Z",
+            "owner": "emo-crab",
+            "repo": "scap-rs",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I Love Hue! (rs)",
+          "description": "A clone of the mobile game I Love Hue in Yew (Rust).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-02-10T03:50:55Z",
+            "owner": "noc7c9",
+            "repo": "i-love-hue-rs",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-d3-example",
+          "description": "Showing a d3 chart with Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-04-12T07:46:35Z",
+            "owner": "ivnsch",
+            "repo": "yew-d3-example",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hikari",
+          "description": "The Frontend of Everything.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:26:13Z",
+            "owner": "celestia-island",
+            "repo": "hikari",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "covplot",
+          "description": "Live graphs of worldwide CoVID-19 data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-20T22:04:09Z",
+            "owner": "jbowens",
+            "repo": "covplot",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-octicons",
+          "description": "An easy interface for using Octicons in Yew projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-30T10:48:13Z",
+            "owner": "io12",
+            "repo": "yew-octicons",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "windows-terminal-theme-generator",
+          "description": "Simplify your life to create a windows terminal theme. Live Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-22T00:09:23Z",
+            "owner": "LelouchFR",
+            "repo": "windows-terminal-theme-generator",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-ssr-actix-web",
+          "description": "The example demonstrates Yew server-side rendering with actix-web & reqwest, it needs the development version of Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-02-22T06:45:00Z",
+            "owner": "zzy",
+            "repo": "yew-ssr-actix-web",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust electron yew demo",
+          "description": "An example of building a Rust based web app (Yew) into a native app using electron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T09:28:51Z",
+            "owner": "extrawurst",
+            "repo": "rust-electron-demo",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chord Quiz",
+          "description": "Practice recognizing chords in this Rust/Yew/WebAssembly app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-20T22:40:25Z",
+            "owner": "Stigjb",
+            "repo": "chord-quiz",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oxfeed",
+          "description": "A feed reader written in Rust with a Yew frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T07:15:47Z",
+            "owner": "sanpii",
+            "repo": "oxfeed",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portfolio website",
+          "description": "A portfolio SPA with accessibility built-in by Spencer Imbleau.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-02-11T05:54:28Z",
+            "owner": "nuzzles",
+            "repo": "website",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "0721",
+          "description": "The engine of image hosting written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T23:43:19Z",
+            "owner": "langyo",
+            "repo": "0721",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sumi",
+          "description": "Multi-user issue tracking and knowledge base app built with Yew & Actix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-26T05:04:39Z",
+            "owner": "vgwidt",
+            "repo": "sumi",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeyPress",
+          "description": "A Rust WebAssembly Website example for practising english for chinese.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-10-07T09:32:20Z",
+            "owner": "rayylee",
+            "repo": "keypress",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puzzle Cube",
+          "description": "Rubix Cube solver using Rust and Yew, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-22T18:27:29Z",
+            "owner": "wainwrightmark",
+            "repo": "puzzle_cube",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASCII-Hangman",
+          "description": "Configurable Hangman game for children with ASCII-art rewarding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-10-31T16:09:46Z",
+            "owner": "getreu",
+            "repo": "ascii-hangman",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "demo_web_zip_wasm",
+          "description": "A simple example program for creating ZIP archives running in the browser using WebAssembly, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-23T08:41:21Z",
+            "owner": "MAE664128",
+            "repo": "demo_web_zip_wasm",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bucket Questions",
+          "description": "A webapp written entirely in Rust for a dumb party game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-08-01T03:34:33Z",
+            "owner": "hgzimmerman",
+            "repo": "BucketQuestions",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freecell",
+          "description": "A patience game written in Rust and Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-20T23:25:31Z",
+            "owner": "Stigjb",
+            "repo": "freecell",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotdotyew",
+          "description": "Dot-voting using Yew, with Rust powering the backend API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-10-30T03:51:27Z",
+            "owner": "shaunbennett",
+            "repo": "dotdotyew",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-train-ticket",
+          "description": "A Rust WebAssembly Webapp example basing Yew newest hooks and functional API, the code style is extremely like React Function Component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-06-05T03:17:55Z",
+            "owner": "anthhub",
+            "repo": "yew-train-ticket",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "note-to-yew",
+          "description": "Convert your markups into Yew macro online, which is also made by Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-10-19T09:05:06Z",
+            "owner": "oovm",
+            "repo": "note-to-yew",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rquote",
+          "description": "Rquote is a web application built using Rust and WebAssembly. It fetches Anime quotes from the Animechan API. Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-11T18:37:09Z",
+            "owner": "Altair-Bueno",
+            "repo": "rquote",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sea_battle",
+          "description": "A simple example of a sea battle game. Rust + Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-07-09T13:36:11Z",
+            "owner": "MAE664128",
+            "repo": "sea_battle",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-ssr-tide",
+          "description": "The example demonstrates Yew server-side rendering with tide & surf, it needs the development version of Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-02-22T06:51:08Z",
+            "owner": "zzy",
+            "repo": "yew-ssr-tide",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "We-Come Monorepo",
+          "description": "This is a monorepo for wecome KM ITB, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-04-08T00:08:52Z",
+            "owner": "kabinetkmitb",
+            "repo": "wecome",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "viz.rs",
+          "description": "A website for viz web framework, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-29T19:39:58Z",
+            "owner": "viz-rs",
+            "repo": "viz-rs.github.io",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelGuesser",
+          "description": "PixelGuesser is a real life party gam where players try to guess the contents of an image as quickly as possible.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "theiskaa.com",
+          "description": "A real world implementation of Yew framework. Live at theiskaa.com.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "konnektoren.help",
+          "description": "An interactive web application for learning German grammar, featuring gamified challenges and a map-based interface. Web App",
+          "children": []
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Create Yew App",
+          "description": "Set up a modern Yew web app by running one command, .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-16T02:55:51Z",
+            "owner": "jetli",
+            "repo": "create-yew-app",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-yew-axum-tauri-desktop",
+          "description": "Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-17T01:06:53Z",
+            "owner": "jetli",
+            "repo": "rust-yew-axum-tauri-desktop",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axum-yew-setup",
+          "description": "A starter project that sets up Axum and Yew for full stack Rust web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-04T14:10:58Z",
+            "owner": "rksm",
+            "repo": "axum-yew-setup",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-wasm-pack-template",
+          "description": "A template for starting a Yew project to be used with wasm-pack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-05-26T00:28:13Z",
+            "owner": "yewstack",
+            "repo": "yew-wasm-pack-template",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-wasm-pack-minimal",
+          "description": "A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-19T08:17:39Z",
+            "owner": "yewstack",
+            "repo": "yew-wasm-pack-minimal",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-parcel-template",
+          "description": "Awesome Yew with Yew-Router and Parcel application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-07T11:08:21Z",
+            "owner": "spielcrypto",
+            "repo": "yew-parcel-template",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yew PWA Minimal",
+          "description": "A minimal Progressive Web App using Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-11T04:10:34Z",
+            "owner": "fkohlgrueber",
+            "repo": "yew-pwa-minimal",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-template-for-github-io",
+          "description": "Directly deployable Template of yew project for github.io, using tailwind and webpack for css, trunk for build and serve.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-04-09T15:16:15Z",
+            "owner": "Ja-sonYun",
+            "repo": "yew-template-for-github-io",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tailwindcss-yew-template",
+          "description": "Simple layout for using Tailwindcss with Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-04-10T11:49:33Z",
+            "owner": "vvcaw",
+            "repo": "tailwindcss-yew-template",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yew HTTP Starter",
+          "description": "Yew template with a simple HTTP message & useful helper comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-07-17T04:49:33Z",
+            "owner": "LeTurt333",
+            "repo": "yew_http_starter",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yew minimlistic template",
+          "description": "A minimalistic template for quickly starting a project on yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-22T08:43:13Z",
+            "owner": "averichev",
+            "repo": "yew-starter-template",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Crates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yewprint",
+          "description": "Port of blueprintjs.com to Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-06-02T08:12:35Z",
+            "owner": "yewprint",
+            "repo": "yewprint",
+            "stars": 451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ybc",
+          "description": "A Yew component library based on the Bulma CSS framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-30T19:39:31Z",
+            "owner": "thedodd",
+            "repo": "ybc",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-yew",
+          "description": "Yew wrapper for Material Web Components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-17T10:36:58Z",
+            "owner": "ranile",
+            "repo": "material-yew",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "patternfly-yew",
+          "description": "Patternfly components for Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-19T13:26:16Z",
+            "owner": "patternfly-yew",
+            "repo": "patternfly-yew",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tailwind-yew-builder",
+          "description": "Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-11-30T13:16:30Z",
+            "owner": "matiu2",
+            "repo": "tailwind-yew-builder",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-chart",
+          "description": "A Yew-based charting library that provides SVG based components for rendering charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-27T06:20:30Z",
+            "owner": "titanclass",
+            "repo": "yew-chart",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-components",
+          "description": "Material Design Components for the Yew framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-07-18T21:33:15Z",
+            "owner": "angular-rust",
+            "repo": "yew-components",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-mdc",
+          "description": "Material Design Components for the Yew framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-05-10T00:09:28Z",
+            "owner": "dungeonfog",
+            "repo": "yew-mdc",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-bootstrap",
+          "description": "A Yew wrapper for the Bootstrap 5 component library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-08T21:39:42Z",
+            "owner": "isosphere",
+            "repo": "yew-bootstrap",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muicss-yew",
+          "description": "MUI-CSS Components for Yew framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-04-10T12:22:43Z",
+            "owner": "AlephAlpha",
+            "repo": "muicss-yew",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-bulma",
+          "description": "A Rust library providing components based on the bulma css library for projects using Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-05-19T04:48:32Z",
+            "owner": "kellpossible",
+            "repo": "yew-bulma",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-feather",
+          "description": "Feather Icons components for Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-09T20:29:33Z",
+            "owner": "pedrodesu",
+            "repo": "yew-feather",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tailyew",
+          "description": "Yew wrapper around DaisyUI (tailwindcss based) components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-14T02:22:44Z",
+            "owner": "fuzzycloud",
+            "repo": "tailyew",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-nav-link",
+          "description": "A navigational link that is aware of its active state based on the current route in the application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T06:16:33Z",
+            "owner": "RAprogramm",
+            "repo": "yew-nav-link",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zu",
+          "description": "Yew web components, implementing Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-03T10:16:11Z",
+            "owner": "RustVis",
+            "repo": "zu",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-duskmoon-ui",
+          "description": "Duskmoon UI Component Library. This package use to embbed css in components, so no extra CSS file is needed. Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T01:26:32Z",
+            "owner": "duskmoon-dev",
+            "repo": "yew-duskmoon-ui",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Component Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yew Form",
+          "description": "Components to simplify handling forms with Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-03-23T23:24:11Z",
+            "owner": "jfbilodeau",
+            "repo": "yew_form",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-oauth2",
+          "description": "A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-09T13:54:53Z",
+            "owner": "ctron",
+            "repo": "yew-oauth2",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-component-size",
+          "description": "A Yew component that emits events when the parent component changes width/height.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-12-19T21:30:47Z",
+            "owner": "AircastDev",
+            "repo": "yew-component-size",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-virtual-scroller",
+          "description": "A Yew component for virtual scrolling / scroll windowing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-12-19T21:30:18Z",
+            "owner": "AircastDev",
+            "repo": "yew-virtual-scroller",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-scroll-area",
+          "description": "Custom scroll area for Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-08T13:45:42Z",
+            "owner": "MatchaChoco010",
+            "repo": "yew-scroll-area",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yew-hooks",
+          "description": "Custom Hooks library for Yew, inspired by streamich/react-use and alibaba/hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-24T08:29:48Z",
+            "owner": "jetli",
+            "repo": "yew-hooks",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bounce",
+          "description": "The uncomplicated state management library for Yew, inspired by Redux and Recoil.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-30T11:27:36Z",
+            "owner": "bounce-rs",
+            "repo": "bounce",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yewv",
+          "description": "A lightning fast state management module for Yew built with performance and simplicity as a first priority.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-04-20T19:27:18Z",
+            "owner": "yewv",
+            "repo": "yewv",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-side-effect",
+          "description": "Reconcile Side Effects in Yew Applications, inspired by react-side-effect and react-helmet.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-03-05T10:28:58Z",
+            "owner": "futursolo",
+            "repo": "yew-side-effect",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Hooks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Plotly.rs",
+          "description": "Rust bindings for the popular Plotly charting library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T03:04:58Z",
+            "owner": "plotly",
+            "repo": "plotly.rs",
+            "stars": 1448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ag-grid-rs",
+          "description": "Rust bindings for the AG Grid datatable library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-31T14:51:06Z",
+            "owner": "mfreeborn",
+            "repo": "ag-grid-rs",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "popper-rs",
+          "description": "Popper JS bindings for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T14:48:19Z",
+            "owner": "ctron",
+            "repo": "popper-rs",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Javascript Library Ports"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stylist-rs",
+          "description": "A CSS-in-Rust styling solution for WebAssembly Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-22T21:22:05Z",
+            "owner": "futursolo",
+            "repo": "stylist-rs",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yewdux",
+          "description": "Redux-like state containers for Yew apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-07T18:19:54Z",
+            "owner": "intendednull",
+            "repo": "yewdux",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailwind RS",
+          "description": "Tailwind style tracer in rust, JIT + AOT interpreter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T04:28:47Z",
+            "owner": "oovm",
+            "repo": "tailwind-rs",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turf",
+          "description": "Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-02T15:35:59Z",
+            "owner": "myFavShrimp",
+            "repo": "turf",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reacty_yew",
+          "description": "Generate Yew components from React components via Typescript type definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-16T20:39:23Z",
+            "owner": "hobofan",
+            "repo": "reacty_yew",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew_icons",
+          "description": "Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-25T22:26:55Z",
+            "owner": "finnbear",
+            "repo": "yew_icons",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yew-Template",
+          "description": "A crate for separating HTML and Rust code when using Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-26T15:09:31Z",
+            "owner": "INSAgenda",
+            "repo": "yew-template",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yew Interop",
+          "description": "Load JavaScript and CSS asynchronously in Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-13T14:06:04Z",
+            "owner": "Madoshakalaka",
+            "repo": "yew-interop",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-yew",
+          "description": "CSS in Rust, similar to styled-components, but for Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-07T13:54:08Z",
+            "owner": "IcyDefiance",
+            "repo": "styled-yew",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-style-in-rs",
+          "description": "Scoped CSS in Rust for Yew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-04T22:50:16Z",
+            "owner": "MatchaChoco010",
+            "repo": "yew-style-in-rs",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-nested-router",
+          "description": "A router that supported nesting, with Yew 0.20.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-17T06:39:21Z",
+            "owner": "ctron",
+            "repo": "yew-nested-router",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browser-panic-hook",
+          "description": "A panic handler for browser environments, allowing to fail in an end-user friendly way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-06-02T13:57:18Z",
+            "owner": "ctron",
+            "repo": "browser-panic-hook",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wasm-bindgen",
+          "description": "Facilitating high-level interactions between WebAssembly modules and JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:36:19Z",
+            "owner": "wasm-bindgen",
+            "repo": "wasm-bindgen",
+            "stars": 9118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stdweb",
+          "description": "Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-28T12:11:10Z",
+            "owner": "koute",
+            "repo": "stdweb",
+            "stars": 3453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tauri-sys",
+          "description": "Raw bindings to the Tauri API for projects using wasm-bindgen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T04:04:21Z",
+            "owner": "JonasKruckenberg",
+            "repo": "tauri-sys",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "Wasm"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tauri",
+          "description": "Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:40:17Z",
+            "owner": "tauri-apps",
+            "repo": "tauri",
+            "stars": 110163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "binaryen",
+          "description": "Compiler infrastructure and toolchain library for WebAssembly, for the tool to reduce .wasm file size.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "WebAssembly",
+            "last_commit": "2026-08-13T01:14:03Z",
+            "owner": "WebAssembly",
+            "repo": "binaryen",
+            "stars": 8596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wabt",
+          "description": "The WebAssembly Binary Toolkit, for the and tools to reduce .wasm file size.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:23:14Z",
+            "owner": "WebAssembly",
+            "repo": "wabt",
+            "stars": 8098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasm-pack",
+          "description": "Your favorite Rust -> WebAssembly workflow tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:56:24Z",
+            "owner": "wasm-bindgen",
+            "repo": "wasm-pack",
+            "stars": 7274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trunk",
+          "description": "Build, bundle & ship your Rust Wasm application to the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T14:29:03Z",
+            "owner": "trunk-rs",
+            "repo": "trunk",
+            "stars": 4373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cargo-web",
+          "description": "A Cargo subcommand for the client-side Web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-29T04:25:09Z",
+            "owner": "koute",
+            "repo": "cargo-web",
+            "stars": 1111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasm-pack-action",
+          "description": "Github action to install by downloading the executable to speed up CI/CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-03T13:52:12Z",
+            "owner": "jetli",
+            "repo": "wasm-pack-action",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trunk-action",
+          "description": "Github action to install by downloading the executable to speed up CI/CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-18T09:56:47Z",
+            "owner": "jetli",
+            "repo": "trunk-action",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yew-fmt",
+          "description": "A configurable extension to for formatting Yew HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-16T11:55:49Z",
+            "owner": "its-the-shrimp",
+            "repo": "yew-fmt",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wasm-bindgen-action",
+          "description": "Github action to install by downloading the executable to speed up CI/CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-03T20:42:55Z",
+            "owner": "jetli",
+            "repo": "wasm-bindgen-action",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to use Rust Yew",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to use a modal in Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to use routers in Rust Frontend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to modulize your Rust Frontend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to use NPM packages with Rust Frontend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to use markdown with Rust Frontend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fullstack Rust with Yew",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to write Full Stack Rust code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to render a YouTube vlog with Rust Yew fetch API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to render blog posts with Rust Yew mounted API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-19T15:40:52Z",
+            "owner": "steadylearner",
+            "repo": "blog",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": "Yew team love to share ideas with other projects and believe we can all help each other reach the full potential of this exciting new technology.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dioxus",
+          "description": "Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T16:17:14Z",
+            "owner": "DioxusLabs",
+            "repo": "dioxus",
+            "stars": 38637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leptos",
+          "description": "Build fast web applications with Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T15:05:01Z",
+            "owner": "leptos-rs",
+            "repo": "leptos",
+            "stars": 21201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seed",
+          "description": "A Rust framework for creating web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-11T09:42:45Z",
+            "owner": "seed-rs",
+            "repo": "seed",
+            "stars": 3837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sycamore",
+          "description": "A reactive library for creating web apps in Rust and WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-15T14:19:38Z",
+            "owner": "sycamore-rs",
+            "repo": "sycamore",
+            "stars": 3344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Percy",
+          "description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T23:19:30Z",
+            "owner": "chinedufn",
+            "repo": "percy",
+            "stars": 2315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sauron",
+          "description": "Sauron is an HTML web framework for building web-apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-27T11:51:25Z",
+            "owner": "ivanceras",
+            "repo": "sauron",
+            "stars": 2066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smithy",
+          "description": "A framework for building WebAssembly apps in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-02-20T03:37:33Z",
+            "owner": "rbalicki2",
+            "repo": "smithy",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Draco",
+          "description": "A Rust library for building client side web applications with WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-03T07:36:23Z",
+            "owner": "utkarshkukreti",
+            "repo": "draco",
+            "stars": 304
+          }
+        }
+      ],
+      "title": "Alternatives"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Rust",
+          "description": "A curated list of Rust code and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:42:33Z",
+            "owner": "rust-unofficial",
+            "repo": "awesome-rust",
+            "stars": 58814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome WebAssembly",
+          "description": "Collection of awesome things regarding WebAssembly ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-15T14:58:04Z",
+            "owner": "mbasso",
+            "repo": "awesome-wasm",
+            "stars": 9615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Rust and WebAssembly",
+          "description": "A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-08-31T07:48:04Z",
+            "owner": "rustwasm",
+            "repo": "awesome-rust-and-webassembly",
+            "stars": 671
+          }
+        }
+      ],
+      "title": "Related lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:40:21.901Z",
+    "original_repository": "jetli/awesome-yew",
+    "original_repository_sha": "33d03a7b3eaf0b8feed3066fbd5c82d4caca06e4",
+    "enhanced_repository": "enhansome/enhansome-yew",
+    "enhanced_repository_description": null,
+    "title": "Awesome Yew with stars"
+  }
+}
