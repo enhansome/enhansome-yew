@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114466145,
             "language": "Rust",
             "last_commit": "2026-08-10T23:32:55Z",
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32783
+            "stars": 32784
           }
         },
         {
@@ -24,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114466145,
             "language": "Rust",
             "last_commit": "2026-08-10T23:32:55Z",
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32783
+            "stars": 32784
           }
         }
       ],
       "title": "Official"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655797848,
             "language": "Rust",
             "last_commit": "2026-08-15T02:31:49Z",
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 20922
+            "stars": 20924
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615853935,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:26:07Z",
+            "last_commit": "2026-08-19T12:38:50Z",
             "owner": "apache",
             "repo": "iggy",
-            "stars": 4512
+            "stars": 4515
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136712523,
             "language": "Rust",
             "last_commit": "2026-08-13T06:29:02Z",
             "owner": "saschagrunert",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 548107829,
             "language": "Rust",
             "last_commit": "2026-08-16T08:01:13Z",
             "owner": "security-union",
             "repo": "videocall-rs",
-            "stars": 1777
+            "stars": 1779
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196397560,
             "language": "Rust",
             "last_commit": "2023-05-10T09:50:06Z",
             "owner": "steadylearner",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591022890,
             "language": "Rust",
-            "last_commit": "2026-08-14T12:37:03Z",
+            "last_commit": "2026-08-19T12:06:38Z",
             "owner": "emanuele-em",
             "repo": "proxelar",
-            "stars": 1047
+            "stars": 1048
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 532135806,
             "language": "Rust",
             "last_commit": "2026-08-10T13:26:14Z",
             "owner": "madeofpendletonwool",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219413766,
             "language": "Rust",
             "last_commit": "2026-03-16T03:05:13Z",
             "owner": "jetli",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117757315,
             "language": "Rust",
             "last_commit": "2026-08-18T18:44:16Z",
             "owner": "getsentry",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 518481649,
             "language": "Rust",
             "last_commit": "2023-04-23T14:52:33Z",
             "owner": "eliaperantoni",
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362553960,
             "language": "Rust",
             "last_commit": "2026-01-14T11:13:45Z",
             "owner": "mistricky",
             "repo": "zzhack",
-            "stars": 328
+            "stars": 329
           }
         },
         {
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628757809,
             "language": "Rust",
             "last_commit": "2023-08-01T13:03:01Z",
             "owner": "opensourcecheemsburgers",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286630139,
             "language": "Rust",
             "last_commit": "2020-08-31T05:10:21Z",
             "owner": "sheshbabu",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 529531279,
             "language": "Rust",
             "last_commit": "2025-04-17T13:54:05Z",
             "owner": "nag763",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 619484425,
             "language": "Rust",
             "last_commit": "2025-04-06T09:17:03Z",
             "owner": "picoHz",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449220197,
             "language": "Rust",
             "last_commit": "2022-08-25T14:13:46Z",
             "owner": "crabtyper",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 244996647,
             "language": "Rust",
             "last_commit": "2026-05-13T10:10:50Z",
             "owner": "jplatte",
@@ -282,8 +301,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599598236,
             "language": "Rust",
-            "last_commit": "2026-08-18T15:33:08Z",
+            "last_commit": "2026-08-19T12:23:29Z",
             "owner": "google",
             "repo": "wasefire",
             "stars": 182
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679879737,
             "language": "Rust",
             "last_commit": "2025-09-10T02:21:14Z",
             "owner": "SoftbearStudios",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181776012,
             "language": "Rust",
             "last_commit": "2022-06-08T22:37:14Z",
             "owner": "tarkah",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236396155,
             "language": "Rust",
             "last_commit": "2023-01-20T23:12:25Z",
             "owner": "spielcrypto",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322633254,
             "language": "Rust",
             "last_commit": "2020-12-30T12:09:08Z",
             "owner": "dev-family",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 610996734,
             "language": "Rust",
             "last_commit": "2026-04-23T09:52:23Z",
             "owner": "xfbs",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287346713,
             "language": "Rust",
             "last_commit": "2026-04-24T17:14:42Z",
             "owner": "chipnertkj",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 456622886,
             "language": "Rust",
             "last_commit": "2024-07-17T15:10:02Z",
             "owner": "Jondolf",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268253119,
             "language": "Rust",
             "last_commit": "2023-08-17T11:36:50Z",
             "owner": "codec-abc",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432368255,
             "language": "Rust",
             "last_commit": "2026-08-15T12:12:00Z",
             "owner": "philipborg",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221487453,
             "language": "Rust",
             "last_commit": "2023-01-20T22:02:48Z",
             "owner": "extrawurst",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445533047,
             "language": "Rust",
             "last_commit": "2026-07-14T05:59:48Z",
             "owner": "liveask",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599255135,
             "language": "Rust",
             "last_commit": "2026-05-08T07:40:20Z",
             "owner": "syre-data",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 561889634,
             "language": "Rust",
             "last_commit": "2023-06-07T21:45:25Z",
             "owner": "tramlinehq",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 363203966,
             "language": "Rust",
             "last_commit": "2023-10-09T14:44:47Z",
             "owner": "vascokk",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 771122221,
             "language": "Rust",
             "last_commit": "2026-02-05T18:20:29Z",
             "owner": "RustedLessPass",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 731803676,
             "language": "Rust",
             "last_commit": "2023-12-30T05:31:19Z",
             "owner": "AlexBuz",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292194114,
             "language": "Rust",
             "last_commit": "2026-08-12T04:36:57Z",
             "owner": "elazarcoh",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 516846879,
             "language": "Rust",
             "last_commit": "2025-07-25T06:56:15Z",
             "owner": "lucasmerlin",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203168910,
             "language": "JavaScript",
             "last_commit": "2020-11-17T10:18:35Z",
             "owner": "hobofan",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 760305820,
             "language": "Rust",
             "last_commit": "2024-08-16T14:36:27Z",
             "owner": "Xu-Mj",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331574478,
             "language": "Rust",
             "last_commit": "2022-11-29T03:31:30Z",
             "owner": "songday",
@@ -590,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270363447,
             "language": "Rust",
             "last_commit": "2023-01-07T18:54:09Z",
             "owner": "lukidoescode",
@@ -604,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294963753,
             "language": "Rust",
             "last_commit": "2022-03-03T14:25:54Z",
             "owner": "kamiyaa",
@@ -618,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337454856,
             "language": "Rust",
             "last_commit": "2023-05-24T13:16:46Z",
             "owner": "LighghtEeloo",
@@ -632,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501499235,
             "language": "Rust",
             "last_commit": "2026-04-23T03:16:31Z",
             "owner": "austintheriot",
@@ -646,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330967672,
             "language": "Rust",
             "last_commit": "2023-02-08T09:56:43Z",
             "owner": "zzy",
@@ -660,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201373813,
             "language": "Rust",
             "last_commit": "2023-01-07T08:33:39Z",
             "owner": "extraymond",
@@ -674,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209694110,
             "language": "Rust",
             "last_commit": "2022-12-11T14:15:39Z",
             "owner": "stkevintan",
@@ -688,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325015469,
             "language": "Rust",
             "last_commit": "2023-02-08T09:52:12Z",
             "owner": "zzy",
@@ -702,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448665337,
             "language": "Rust",
             "last_commit": "2022-10-11T02:03:44Z",
             "owner": "pmsanford",
@@ -716,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270830665,
             "language": "Rust",
             "last_commit": "2025-06-24T14:41:14Z",
             "owner": "alepez",
@@ -730,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 547508458,
             "language": "Rust",
             "last_commit": "2026-07-20T11:09:24Z",
             "owner": "TheBestTvarynka",
@@ -744,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245681680,
             "language": "Rust",
             "last_commit": "2023-02-04T00:46:53Z",
             "owner": "jgpaiva",
@@ -758,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288068023,
             "language": "Rust",
             "last_commit": "2020-09-21T08:01:10Z",
             "owner": "pipe-fun",
@@ -772,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609026135,
             "language": "Rust",
             "last_commit": "2026-05-01T07:54:15Z",
             "owner": "emo-crab",
@@ -786,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237568682,
             "language": "Rust",
             "last_commit": "2020-02-10T03:50:55Z",
             "owner": "noc7c9",
@@ -800,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356973609,
             "language": "Rust",
             "last_commit": "2021-04-12T07:46:35Z",
             "owner": "ivnsch",
@@ -814,8 +871,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588184956,
             "language": "Rust",
-            "last_commit": "2026-08-18T15:10:49Z",
+            "last_commit": "2026-08-19T12:44:36Z",
             "owner": "celestia-island",
             "repo": "hikari",
             "stars": 23
@@ -828,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247784040,
             "language": "Rust",
             "last_commit": "2023-01-20T22:04:09Z",
             "owner": "jbowens",
@@ -842,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279436288,
             "language": "Rust",
             "last_commit": "2023-10-30T10:48:13Z",
             "owner": "io12",
@@ -856,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 767005007,
             "language": "Rust",
             "last_commit": "2024-04-22T00:09:23Z",
             "owner": "LelouchFR",
@@ -870,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462137674,
             "language": "Rust",
             "last_commit": "2022-02-22T06:45:00Z",
             "owner": "zzy",
@@ -884,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222709720,
             "language": "JavaScript",
             "last_commit": "2022-12-10T09:28:51Z",
             "owner": "extrawurst",
@@ -898,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264179738,
             "language": "Rust",
             "last_commit": "2023-01-20T22:40:25Z",
             "owner": "Stigjb",
@@ -912,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318001592,
             "language": "Rust",
             "last_commit": "2026-08-14T14:46:40Z",
             "owner": "sanpii",
@@ -926,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 458416179,
             "language": "Rust",
             "last_commit": "2026-02-11T05:54:28Z",
             "owner": "nuzzles",
@@ -940,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 764232320,
             "language": "Rust",
             "last_commit": "2026-08-01T23:43:19Z",
             "owner": "langyo",
@@ -954,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579585968,
             "language": "Rust",
             "last_commit": "2025-06-26T05:04:39Z",
             "owner": "vgwidt",
@@ -968,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 339577499,
             "language": "Rust",
             "last_commit": "2022-10-07T09:32:20Z",
             "owner": "rayylee",
@@ -982,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497609182,
             "language": "Rust",
             "last_commit": "2022-06-22T18:27:29Z",
             "owner": "wainwrightmark",
@@ -996,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50797298,
             "language": "Rust",
             "last_commit": "2021-10-31T16:09:46Z",
             "owner": "getreu",
@@ -1010,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778746257,
             "language": "Rust",
             "last_commit": "2024-05-23T08:41:21Z",
             "owner": "MAE664128",
@@ -1024,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184834729,
             "language": "Rust",
             "last_commit": "2020-08-01T03:34:33Z",
             "owner": "hgzimmerman",
@@ -1038,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261762017,
             "language": "Rust",
             "last_commit": "2023-01-20T23:25:31Z",
             "owner": "Stigjb",
@@ -1052,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305154261,
             "language": "Rust",
             "last_commit": "2020-10-30T03:51:27Z",
             "owner": "shaunbennett",
@@ -1066,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 341490406,
             "language": "Rust",
             "last_commit": "2021-06-05T03:17:55Z",
             "owner": "anthhub",
@@ -1080,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305054494,
             "language": "Rust",
             "last_commit": "2020-10-19T09:05:06Z",
             "owner": "oovm",
@@ -1094,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448438704,
             "language": "Rust",
             "last_commit": "2023-08-11T18:37:09Z",
             "owner": "Altair-Bueno",
@@ -1108,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378948090,
             "language": "Rust",
             "last_commit": "2022-07-09T13:36:11Z",
             "owner": "MAE664128",
@@ -1122,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462143542,
             "language": "Rust",
             "last_commit": "2022-02-22T06:51:08Z",
             "owner": "zzy",
@@ -1136,6 +1216,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458836119,
             "language": "Rust",
             "last_commit": "2022-04-08T00:08:52Z",
             "owner": "kabinetkmitb",
@@ -1150,36 +1231,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1149347427,
             "language": null,
             "last_commit": "2026-05-29T19:39:58Z",
             "owner": "viz-rs",
             "repo": "viz-rs.github.io",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "PixelGuesser",
-          "description": "PixelGuesser is a real life party gam where players try to guess the contents of an image as quickly as possible.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "theiskaa.com",
-          "description": "A real world implementation of Yew framework. Live at theiskaa.com.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "konnektoren.help",
-          "description": "An interactive web application for learning German grammar, featuring gamified challenges and a map-based interface. Web App",
-          "children": []
         }
       ],
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1188,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229477584,
             "language": "Rust",
             "last_commit": "2026-03-16T02:55:51Z",
             "owner": "jetli",
@@ -1202,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480833054,
             "language": "Rust",
             "last_commit": "2025-02-17T01:06:53Z",
             "owner": "jetli",
@@ -1216,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477510605,
             "language": "Rust",
             "last_commit": "2023-09-04T14:10:58Z",
             "owner": "rksm",
@@ -1230,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199958409,
             "language": "Rust",
             "last_commit": "2022-05-26T00:28:13Z",
             "owner": "yewstack",
@@ -1244,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201705031,
             "language": "Rust",
             "last_commit": "2023-10-19T08:17:39Z",
             "owner": "yewstack",
@@ -1258,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217928293,
             "language": "Rust",
             "last_commit": "2023-01-07T11:08:21Z",
             "owner": "spielcrypto",
@@ -1272,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264194344,
             "language": "Rust",
             "last_commit": "2023-01-11T04:10:34Z",
             "owner": "fkohlgrueber",
@@ -1286,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472773744,
             "language": "HTML",
             "last_commit": "2022-04-09T15:16:15Z",
             "owner": "Ja-sonYun",
@@ -1300,6 +1372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479001619,
             "language": "Rust",
             "last_commit": "2022-04-10T11:49:33Z",
             "owner": "vvcaw",
@@ -1314,6 +1387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514439999,
             "language": "Rust",
             "last_commit": "2022-07-17T04:49:33Z",
             "owner": "LeTurt333",
@@ -1328,6 +1402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728203241,
             "language": "Rust",
             "last_commit": "2023-12-22T08:43:13Z",
             "owner": "averichev",
@@ -1339,650 +1414,700 @@
       "title": "Templates"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yewprint",
+              "description": "Port of blueprintjs.com to Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 292625947,
+                "language": "Rust",
+                "last_commit": "2025-06-02T08:12:35Z",
+                "owner": "yewprint",
+                "repo": "yewprint",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ybc",
+              "description": "A Yew component library based on the Bulma CSS framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293984185,
+                "language": "Rust",
+                "last_commit": "2024-06-30T19:39:31Z",
+                "owner": "thedodd",
+                "repo": "ybc",
+                "stars": 256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-yew",
+              "description": "Yew wrapper for Material Web Components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296639515,
+                "language": "Rust",
+                "last_commit": "2024-04-17T10:36:58Z",
+                "owner": "ranile",
+                "repo": "material-yew",
+                "stars": 238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "patternfly-yew",
+              "description": "Patternfly components for Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304961438,
+                "language": "Rust",
+                "last_commit": "2026-06-19T13:26:16Z",
+                "owner": "patternfly-yew",
+                "repo": "patternfly-yew",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tailwind-yew-builder",
+              "description": "Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338579561,
+                "language": "Dockerfile",
+                "last_commit": "2022-11-30T13:16:30Z",
+                "owner": "matiu2",
+                "repo": "tailwind-yew-builder",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-chart",
+              "description": "A Yew-based charting library that provides SVG based components for rendering charts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401597826,
+                "language": "Rust",
+                "last_commit": "2024-09-27T06:20:30Z",
+                "owner": "titanclass",
+                "repo": "yew-chart",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-components",
+              "description": "Material Design Components for the Yew framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336963872,
+                "language": "Rust",
+                "last_commit": "2021-07-18T21:33:15Z",
+                "owner": "angular-rust",
+                "repo": "yew-components",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-mdc",
+              "description": "Material Design Components for the Yew framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221397105,
+                "language": "Rust",
+                "last_commit": "2022-05-10T00:09:28Z",
+                "owner": "dungeonfog",
+                "repo": "yew-mdc",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-bootstrap",
+              "description": "A Yew wrapper for the Bootstrap 5 component library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432463841,
+                "language": "Rust",
+                "last_commit": "2026-02-08T21:39:42Z",
+                "owner": "isosphere",
+                "repo": "yew-bootstrap",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "muicss-yew",
+              "description": "MUI-CSS Components for Yew framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233719874,
+                "language": "Rust",
+                "last_commit": "2021-04-10T12:22:43Z",
+                "owner": "AlephAlpha",
+                "repo": "muicss-yew",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-bulma",
+              "description": "A Rust library providing components based on the bulma css library for projects using Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280721633,
+                "language": "Rust",
+                "last_commit": "2021-05-19T04:48:32Z",
+                "owner": "kellpossible",
+                "repo": "yew-bulma",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-feather",
+              "description": "Feather Icons components for Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317315380,
+                "language": "Rust",
+                "last_commit": "2023-11-09T20:29:33Z",
+                "owner": "pedrodesu",
+                "repo": "yew-feather",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tailyew",
+              "description": "Yew wrapper around DaisyUI (tailwindcss based) components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479100911,
+                "language": "Rust",
+                "last_commit": "2024-08-14T02:22:44Z",
+                "owner": "fuzzycloud",
+                "repo": "tailyew",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-nav-link",
+              "description": "A navigational link that is aware of its active state based on the current route in the application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 755454711,
+                "language": "Rust",
+                "last_commit": "2026-08-10T06:16:33Z",
+                "owner": "RAprogramm",
+                "repo": "yew-nav-link",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zu",
+              "description": "Yew web components, implementing Material Design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595392665,
+                "language": "Rust",
+                "last_commit": "2026-06-03T10:16:11Z",
+                "owner": "RustVis",
+                "repo": "zu",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-duskmoon-ui",
+              "description": "Duskmoon UI Component Library. This package use to embbed css in components, so no extra CSS file is needed. Live Demo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588211856,
+                "language": "Rust",
+                "last_commit": "2026-08-13T06:17:32Z",
+                "owner": "duskmoon-dev",
+                "repo": "yew-duskmoon-ui",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Component Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yew Form",
+              "description": "Components to simplify handling forms with Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242811953,
+                "language": "Rust",
+                "last_commit": "2022-03-23T23:24:11Z",
+                "owner": "jfbilodeau",
+                "repo": "yew_form",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-oauth2",
+              "description": "A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479032456,
+                "language": "Rust",
+                "last_commit": "2026-07-09T13:54:53Z",
+                "owner": "ctron",
+                "repo": "yew-oauth2",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-component-size",
+              "description": "A Yew component that emits events when the parent component changes width/height.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320716007,
+                "language": "Rust",
+                "last_commit": "2020-12-19T21:30:47Z",
+                "owner": "AircastDev",
+                "repo": "yew-component-size",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-virtual-scroller",
+              "description": "A Yew component for virtual scrolling / scroll windowing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322940696,
+                "language": "Rust",
+                "last_commit": "2020-12-19T21:30:18Z",
+                "owner": "AircastDev",
+                "repo": "yew-virtual-scroller",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-scroll-area",
+              "description": "Custom scroll area for Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499151659,
+                "language": "Rust",
+                "last_commit": "2022-06-08T13:45:42Z",
+                "owner": "MatchaChoco010",
+                "repo": "yew-scroll-area",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yew-hooks",
+              "description": "Custom Hooks library for Yew, inspired by streamich/react-use and alibaba/hooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441040825,
+                "language": "Rust",
+                "last_commit": "2026-04-24T08:29:48Z",
+                "owner": "jetli",
+                "repo": "yew-hooks",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bounce",
+              "description": "The uncomplicated state management library for Yew, inspired by Redux and Recoil.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431415107,
+                "language": "Rust",
+                "last_commit": "2026-03-30T11:27:36Z",
+                "owner": "bounce-rs",
+                "repo": "bounce",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yewv",
+              "description": "A lightning fast state management module for Yew built with performance and simplicity as a first priority.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 474723599,
+                "language": "Rust",
+                "last_commit": "2022-04-20T19:27:18Z",
+                "owner": "yewv",
+                "repo": "yewv",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-side-effect",
+              "description": "Reconcile Side Effects in Yew Applications, inspired by react-side-effect and react-helmet.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 394141657,
+                "language": "Rust",
+                "last_commit": "2022-03-05T10:28:58Z",
+                "owner": "futursolo",
+                "repo": "yew-side-effect",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hooks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Plotly.rs",
+              "description": "Rust bindings for the popular Plotly charting library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236299679,
+                "language": "Rust",
+                "last_commit": "2026-08-03T03:04:58Z",
+                "owner": "plotly",
+                "repo": "plotly.rs",
+                "stars": 1449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ag-grid-rs",
+              "description": "Rust bindings for the AG Grid datatable library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536539920,
+                "language": "Rust",
+                "last_commit": "2023-03-31T14:51:06Z",
+                "owner": "mfreeborn",
+                "repo": "ag-grid-rs",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "popper-rs",
+              "description": "Popper JS bindings for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668749795,
+                "language": "JavaScript",
+                "last_commit": "2026-07-30T14:48:19Z",
+                "owner": "ctron",
+                "repo": "popper-rs",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Javascript Library Ports"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "stylist-rs",
+              "description": "A CSS-in-Rust styling solution for WebAssembly Applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391642941,
+                "language": "Rust",
+                "last_commit": "2026-06-22T21:22:05Z",
+                "owner": "futursolo",
+                "repo": "stylist-rs",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yewdux",
+              "description": "Redux-like state containers for Yew apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279200157,
+                "language": "Rust",
+                "last_commit": "2026-04-07T18:19:54Z",
+                "owner": "intendednull",
+                "repo": "yewdux",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tailwind RS",
+              "description": "Tailwind style tracer in rust, JIT + AOT interpreter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448939615,
+                "language": "Rust",
+                "last_commit": "2026-08-12T04:28:47Z",
+                "owner": "oovm",
+                "repo": "tailwind-rs",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "turf",
+              "description": "Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 637487755,
+                "language": "Rust",
+                "last_commit": "2025-05-02T15:35:59Z",
+                "owner": "myFavShrimp",
+                "repo": "turf",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reacty_yew",
+              "description": "Generate Yew components from React components via Typescript type definitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312057193,
+                "language": "JavaScript",
+                "last_commit": "2020-11-16T20:39:23Z",
+                "owner": "hobofan",
+                "repo": "reacty_yew",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew_icons",
+              "description": "Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479614034,
+                "language": "Rust",
+                "last_commit": "2026-03-25T22:26:55Z",
+                "owner": "finnbear",
+                "repo": "yew_icons",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yew-Template",
+              "description": "A crate for separating HTML and Rust code when using Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 548500790,
+                "language": "Rust",
+                "last_commit": "2023-08-26T15:09:31Z",
+                "owner": "INSAgenda",
+                "repo": "yew-template",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yew Interop",
+              "description": "Load JavaScript and CSS asynchronously in Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440743383,
+                "language": "Rust",
+                "last_commit": "2023-03-13T14:06:04Z",
+                "owner": "Madoshakalaka",
+                "repo": "yew-interop",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "styled-yew",
+              "description": "CSS in Rust, similar to styled-components, but for Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234972643,
+                "language": "Rust",
+                "last_commit": "2023-01-07T13:54:08Z",
+                "owner": "IcyDefiance",
+                "repo": "styled-yew",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-style-in-rs",
+              "description": "Scoped CSS in Rust for Yew.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466413335,
+                "language": "Rust",
+                "last_commit": "2022-06-04T22:50:16Z",
+                "owner": "MatchaChoco010",
+                "repo": "yew-style-in-rs",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yew-nested-router",
+              "description": "A router that supported nesting, with Yew 0.20.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573509775,
+                "language": "Rust",
+                "last_commit": "2026-06-17T06:39:21Z",
+                "owner": "ctron",
+                "repo": "yew-nested-router",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "browser-panic-hook",
+              "description": "A panic handler for browser environments, allowing to fail in an end-user friendly way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648567558,
+                "language": "Rust",
+                "last_commit": "2023-06-02T13:57:18Z",
+                "owner": "ctron",
+                "repo": "browser-panic-hook",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utils"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wasm-bindgen",
+              "description": "Facilitating high-level interactions between WebAssembly modules and JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114685405,
+                "language": "Rust",
+                "last_commit": "2026-08-18T20:20:04Z",
+                "owner": "wasm-bindgen",
+                "repo": "wasm-bindgen",
+                "stars": 9119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stdweb",
+              "description": "Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84753809,
+                "language": "Rust",
+                "last_commit": "2024-02-28T12:11:10Z",
+                "owner": "koute",
+                "repo": "stdweb",
+                "stars": 3452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tauri-sys",
+              "description": "Raw bindings to the Tauri API for projects using wasm-bindgen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560446206,
+                "language": "Rust",
+                "last_commit": "2026-07-19T04:04:21Z",
+                "owner": "JonasKruckenberg",
+                "repo": "tauri-sys",
+                "stars": 124
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wasm"
+        }
+      ],
       "title": "Crates"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Yewprint",
-          "description": "Port of blueprintjs.com to Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2025-06-02T08:12:35Z",
-            "owner": "yewprint",
-            "repo": "yewprint",
-            "stars": 451
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ybc",
-          "description": "A Yew component library based on the Bulma CSS framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-06-30T19:39:31Z",
-            "owner": "thedodd",
-            "repo": "ybc",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "material-yew",
-          "description": "Yew wrapper for Material Web Components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-04-17T10:36:58Z",
-            "owner": "ranile",
-            "repo": "material-yew",
-            "stars": 237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "patternfly-yew",
-          "description": "Patternfly components for Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-19T13:26:16Z",
-            "owner": "patternfly-yew",
-            "repo": "patternfly-yew",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tailwind-yew-builder",
-          "description": "Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2022-11-30T13:16:30Z",
-            "owner": "matiu2",
-            "repo": "tailwind-yew-builder",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-chart",
-          "description": "A Yew-based charting library that provides SVG based components for rendering charts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-09-27T06:20:30Z",
-            "owner": "titanclass",
-            "repo": "yew-chart",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-components",
-          "description": "Material Design Components for the Yew framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-07-18T21:33:15Z",
-            "owner": "angular-rust",
-            "repo": "yew-components",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-mdc",
-          "description": "Material Design Components for the Yew framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-05-10T00:09:28Z",
-            "owner": "dungeonfog",
-            "repo": "yew-mdc",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-bootstrap",
-          "description": "A Yew wrapper for the Bootstrap 5 component library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-08T21:39:42Z",
-            "owner": "isosphere",
-            "repo": "yew-bootstrap",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "muicss-yew",
-          "description": "MUI-CSS Components for Yew framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-04-10T12:22:43Z",
-            "owner": "AlephAlpha",
-            "repo": "muicss-yew",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-bulma",
-          "description": "A Rust library providing components based on the bulma css library for projects using Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-05-19T04:48:32Z",
-            "owner": "kellpossible",
-            "repo": "yew-bulma",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-feather",
-          "description": "Feather Icons components for Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-11-09T20:29:33Z",
-            "owner": "pedrodesu",
-            "repo": "yew-feather",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tailyew",
-          "description": "Yew wrapper around DaisyUI (tailwindcss based) components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-08-14T02:22:44Z",
-            "owner": "fuzzycloud",
-            "repo": "tailyew",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-nav-link",
-          "description": "A navigational link that is aware of its active state based on the current route in the application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T06:16:33Z",
-            "owner": "RAprogramm",
-            "repo": "yew-nav-link",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zu",
-          "description": "Yew web components, implementing Material Design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-03T10:16:11Z",
-            "owner": "RustVis",
-            "repo": "zu",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-duskmoon-ui",
-          "description": "Duskmoon UI Component Library. This package use to embbed css in components, so no extra CSS file is needed. Live Demo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T06:17:32Z",
-            "owner": "duskmoon-dev",
-            "repo": "yew-duskmoon-ui",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Component Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Yew Form",
-          "description": "Components to simplify handling forms with Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-03-23T23:24:11Z",
-            "owner": "jfbilodeau",
-            "repo": "yew_form",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-oauth2",
-          "description": "A plain Yew OAuth2/OpenIDConnect component, not tied to any CSS framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-09T13:54:53Z",
-            "owner": "ctron",
-            "repo": "yew-oauth2",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-component-size",
-          "description": "A Yew component that emits events when the parent component changes width/height.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-12-19T21:30:47Z",
-            "owner": "AircastDev",
-            "repo": "yew-component-size",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-virtual-scroller",
-          "description": "A Yew component for virtual scrolling / scroll windowing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-12-19T21:30:18Z",
-            "owner": "AircastDev",
-            "repo": "yew-virtual-scroller",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-scroll-area",
-          "description": "Custom scroll area for Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-06-08T13:45:42Z",
-            "owner": "MatchaChoco010",
-            "repo": "yew-scroll-area",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Components"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "yew-hooks",
-          "description": "Custom Hooks library for Yew, inspired by streamich/react-use and alibaba/hooks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-24T08:29:48Z",
-            "owner": "jetli",
-            "repo": "yew-hooks",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bounce",
-          "description": "The uncomplicated state management library for Yew, inspired by Redux and Recoil.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-30T11:27:36Z",
-            "owner": "bounce-rs",
-            "repo": "bounce",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yewv",
-          "description": "A lightning fast state management module for Yew built with performance and simplicity as a first priority.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-04-20T19:27:18Z",
-            "owner": "yewv",
-            "repo": "yewv",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-side-effect",
-          "description": "Reconcile Side Effects in Yew Applications, inspired by react-side-effect and react-helmet.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-03-05T10:28:58Z",
-            "owner": "futursolo",
-            "repo": "yew-side-effect",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Hooks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Plotly.rs",
-          "description": "Rust bindings for the popular Plotly charting library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-03T03:04:58Z",
-            "owner": "plotly",
-            "repo": "plotly.rs",
-            "stars": 1449
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ag-grid-rs",
-          "description": "Rust bindings for the AG Grid datatable library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-03-31T14:51:06Z",
-            "owner": "mfreeborn",
-            "repo": "ag-grid-rs",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "popper-rs",
-          "description": "Popper JS bindings for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-30T14:48:19Z",
-            "owner": "ctron",
-            "repo": "popper-rs",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Javascript Library Ports"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "stylist-rs",
-          "description": "A CSS-in-Rust styling solution for WebAssembly Applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-22T21:22:05Z",
-            "owner": "futursolo",
-            "repo": "stylist-rs",
-            "stars": 384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yewdux",
-          "description": "Redux-like state containers for Yew apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-07T18:19:54Z",
-            "owner": "intendednull",
-            "repo": "yewdux",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tailwind RS",
-          "description": "Tailwind style tracer in rust, JIT + AOT interpreter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-12T04:28:47Z",
-            "owner": "oovm",
-            "repo": "tailwind-rs",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "turf",
-          "description": "Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-05-02T15:35:59Z",
-            "owner": "myFavShrimp",
-            "repo": "turf",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reacty_yew",
-          "description": "Generate Yew components from React components via Typescript type definitions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-11-16T20:39:23Z",
-            "owner": "hobofan",
-            "repo": "reacty_yew",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew_icons",
-          "description": "Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-25T22:26:55Z",
-            "owner": "finnbear",
-            "repo": "yew_icons",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yew-Template",
-          "description": "A crate for separating HTML and Rust code when using Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-08-26T15:09:31Z",
-            "owner": "INSAgenda",
-            "repo": "yew-template",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yew Interop",
-          "description": "Load JavaScript and CSS asynchronously in Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-03-13T14:06:04Z",
-            "owner": "Madoshakalaka",
-            "repo": "yew-interop",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "styled-yew",
-          "description": "CSS in Rust, similar to styled-components, but for Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-01-07T13:54:08Z",
-            "owner": "IcyDefiance",
-            "repo": "styled-yew",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-style-in-rs",
-          "description": "Scoped CSS in Rust for Yew.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-06-04T22:50:16Z",
-            "owner": "MatchaChoco010",
-            "repo": "yew-style-in-rs",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yew-nested-router",
-          "description": "A router that supported nesting, with Yew 0.20.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-17T06:39:21Z",
-            "owner": "ctron",
-            "repo": "yew-nested-router",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "browser-panic-hook",
-          "description": "A panic handler for browser environments, allowing to fail in an end-user friendly way.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-06-02T13:57:18Z",
-            "owner": "ctron",
-            "repo": "browser-panic-hook",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Utils"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wasm-bindgen",
-          "description": "Facilitating high-level interactions between WebAssembly modules and JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T18:19:17Z",
-            "owner": "wasm-bindgen",
-            "repo": "wasm-bindgen",
-            "stars": 9118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stdweb",
-          "description": "Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-28T12:11:10Z",
-            "owner": "koute",
-            "repo": "stdweb",
-            "stars": 3452
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tauri-sys",
-          "description": "Raw bindings to the Tauri API for projects using wasm-bindgen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-19T04:04:21Z",
-            "owner": "JonasKruckenberg",
-            "repo": "tauri-sys",
-            "stars": 124
-          }
-        }
-      ],
-      "title": "Wasm"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1991,11 +2116,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196701619,
             "language": "Rust",
-            "last_commit": "2026-08-17T20:01:17Z",
+            "last_commit": "2026-08-19T04:42:18Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110331
+            "stars": 110355
           }
         },
         {
@@ -2005,8 +2131,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45208608,
             "language": "WebAssembly",
-            "last_commit": "2026-08-18T19:56:10Z",
+            "last_commit": "2026-08-18T23:06:51Z",
             "owner": "WebAssembly",
             "repo": "binaryen",
             "stars": 8600
@@ -2019,11 +2146,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42467830,
             "language": "C++",
-            "last_commit": "2026-08-18T03:49:17Z",
+            "last_commit": "2026-08-18T21:14:32Z",
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8102
+            "stars": 8103
           }
         },
         {
@@ -2033,6 +2161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121253762,
             "language": "Rust",
             "last_commit": "2026-08-12T18:56:24Z",
             "owner": "wasm-bindgen",
@@ -2047,6 +2176,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288799056,
             "language": "Rust",
             "last_commit": "2026-08-01T14:29:03Z",
             "owner": "trunk-rs",
@@ -2061,6 +2191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81644132,
             "language": "Rust",
             "last_commit": "2023-11-29T04:25:09Z",
             "owner": "koute",
@@ -2075,6 +2206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244578171,
             "language": "TypeScript",
             "last_commit": "2023-03-03T13:52:12Z",
             "owner": "jetli",
@@ -2089,6 +2221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336251832,
             "language": "TypeScript",
             "last_commit": "2025-07-18T09:56:47Z",
             "owner": "jetli",
@@ -2103,6 +2236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722197713,
             "language": "Rust",
             "last_commit": "2025-07-16T11:55:49Z",
             "owner": "its-the-shrimp",
@@ -2117,6 +2251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306516921,
             "language": "TypeScript",
             "last_commit": "2023-03-03T20:42:55Z",
             "owner": "jetli",
@@ -2128,7 +2263,7 @@
       "title": "Tooling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2137,6 +2272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2151,6 +2287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2165,6 +2302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2179,6 +2317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2193,6 +2332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2207,6 +2347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2221,6 +2362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2235,6 +2377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2249,6 +2392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2263,6 +2407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289890644,
             "language": null,
             "last_commit": "2021-05-19T15:40:52Z",
             "owner": "steadylearner",
@@ -2283,11 +2428,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329782568,
             "language": "Rust",
             "last_commit": "2026-08-14T03:17:38Z",
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 38796
+            "stars": 38810
           }
         },
         {
@@ -2297,11 +2443,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519882617,
             "language": "Rust",
             "last_commit": "2026-08-17T16:21:12Z",
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21212
+            "stars": 21213
           }
         },
         {
@@ -2311,6 +2458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159957569,
             "language": "Rust",
             "last_commit": "2025-01-11T09:42:45Z",
             "owner": "seed-rs",
@@ -2325,6 +2473,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344917688,
             "language": "Rust",
             "last_commit": "2026-06-15T14:19:38Z",
             "owner": "sycamore-rs",
@@ -2339,6 +2488,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141128198,
             "language": "Rust",
             "last_commit": "2026-08-08T23:19:30Z",
             "owner": "chinedufn",
@@ -2353,6 +2503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181514298,
             "language": "Rust",
             "last_commit": "2025-01-27T11:51:25Z",
             "owner": "ivanceras",
@@ -2367,6 +2518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140975274,
             "language": "Rust",
             "last_commit": "2020-02-20T03:37:33Z",
             "owner": "rbalicki2",
@@ -2381,6 +2533,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154799697,
             "language": "Rust",
             "last_commit": "2023-04-03T07:36:23Z",
             "owner": "utkarshkukreti",
@@ -2392,7 +2545,7 @@
       "title": "Alternatives"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2401,11 +2554,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21938243,
             "language": "Rust",
             "last_commit": "2026-08-18T15:53:34Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58888
+            "stars": 58896
           }
         },
         {
@@ -2415,11 +2569,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89355243,
             "language": null,
             "last_commit": "2024-11-15T14:58:04Z",
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9619
+            "stars": 9620
           }
         },
         {
@@ -2429,6 +2584,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 148698182,
             "language": null,
             "last_commit": "2023-08-31T07:48:04Z",
             "owner": "rustwasm",
@@ -2441,8 +2597,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:00:17.099Z",
+    "last_updated": "2026-08-19T12:58:33.346Z",
     "original_repository": "jetli/awesome-yew",
+    "original_repository_id": 228514103,
     "original_repository_sha": "33d03a7b3eaf0b8feed3066fbd5c82d4caca06e4",
     "enhanced_repository": "enhansome/enhansome-yew",
     "enhanced_repository_description": null,
