@@ -15,7 +15,7 @@
             "last_commit": "2026-08-10T23:32:55Z",
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32782
+            "stars": 32784
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-10T23:32:55Z",
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32782
+            "stars": 32784
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 655797848,
             "language": "Rust",
-            "last_commit": "2026-08-15T02:31:49Z",
+            "last_commit": "2026-08-23T13:19:46Z",
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 20942
+            "stars": 20946
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 615853935,
             "language": "Rust",
-            "last_commit": "2026-08-22T14:56:22Z",
+            "last_commit": "2026-08-23T04:00:57Z",
             "owner": "apache",
             "repo": "iggy",
             "stars": 4523
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-16T08:01:13Z",
             "owner": "security-union",
             "repo": "videocall-rs",
-            "stars": 1780
+            "stars": 1781
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-10T13:26:14Z",
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 962
+            "stars": 963
           }
         },
         {
@@ -303,10 +303,10 @@
             "archived": false,
             "id": 599598236,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:23:29Z",
+            "last_commit": "2026-08-23T07:40:16Z",
             "owner": "google",
             "repo": "wasefire",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -873,7 +873,7 @@
             "archived": false,
             "id": 588184956,
             "language": "Rust",
-            "last_commit": "2026-08-22T18:50:00Z",
+            "last_commit": "2026-08-23T19:58:20Z",
             "owner": "celestia-island",
             "repo": "hikari",
             "stars": 23
@@ -1826,7 +1826,7 @@
                 "last_commit": "2026-08-03T03:04:58Z",
                 "owner": "plotly",
                 "repo": "plotly.rs",
-                "stars": 1449
+                "stars": 1450
               }
             },
             {
@@ -2065,7 +2065,7 @@
                 "last_commit": "2026-08-21T23:44:00Z",
                 "owner": "wasm-bindgen",
                 "repo": "wasm-bindgen",
-                "stars": 9122
+                "stars": 9123
               }
             },
             {
@@ -2121,7 +2121,7 @@
             "last_commit": "2026-08-21T21:34:35Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110462
+            "stars": 110491
           }
         },
         {
@@ -2136,7 +2136,7 @@
             "last_commit": "2026-08-22T01:09:04Z",
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8605
+            "stars": 8608
           }
         },
         {
@@ -2151,7 +2151,7 @@
             "last_commit": "2026-08-21T20:16:58Z",
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8101
+            "stars": 8103
           }
         },
         {
@@ -2166,7 +2166,7 @@
             "last_commit": "2026-08-12T18:56:24Z",
             "owner": "wasm-bindgen",
             "repo": "wasm-pack",
-            "stars": 7277
+            "stars": 7278
           }
         },
         {
@@ -2433,7 +2433,7 @@
             "last_commit": "2026-08-20T02:37:22Z",
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 38839
+            "stars": 38857
           }
         },
         {
@@ -2448,7 +2448,7 @@
             "last_commit": "2026-08-17T16:21:12Z",
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21226
+            "stars": 21228
           }
         },
         {
@@ -2559,7 +2559,7 @@
             "last_commit": "2026-08-22T14:37:29Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58939
+            "stars": 58946
           }
         },
         {
@@ -2574,7 +2574,7 @@
             "last_commit": "2024-11-15T14:58:04Z",
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9624
+            "stars": 9626
           }
         },
         {
@@ -2597,7 +2597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:59:34.428Z",
+    "last_updated": "2026-08-23T19:59:15.992Z",
     "original_repository": "jetli/awesome-yew",
     "original_repository_id": 228514103,
     "original_repository_sha": "33d03a7b3eaf0b8feed3066fbd5c82d4caca06e4",
