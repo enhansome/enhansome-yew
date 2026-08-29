@@ -91,11 +91,11 @@
             "id": 655797848,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T16:30:49Z",
-            "open_issues": 895,
+            "last_commit": "2026-08-29T07:37:00Z",
+            "open_issues": 894,
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 20967,
+            "stars": 20970,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -112,11 +112,11 @@
             "id": 615853935,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T00:31:01Z",
-            "open_issues": 180,
+            "last_commit": "2026-08-29T16:54:00Z",
+            "open_issues": 182,
             "owner": "apache",
             "repo": "iggy",
-            "stars": 4586,
+            "stars": 4601,
             "topics": [
               "apache",
               "http",
@@ -290,7 +290,7 @@
             "open_issues": 149,
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 970,
+            "stars": 971,
             "topics": [
               "fastapi",
               "hacktoberfest",
@@ -1623,8 +1623,8 @@
             "id": 588184956,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T01:56:10Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-29T19:43:13Z",
+            "open_issues": 2,
             "owner": "celestia-island",
             "repo": "hikari",
             "stars": 23,
@@ -3143,7 +3143,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-27T03:03:30Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "plotly",
                 "repo": "plotly.rs",
                 "stars": 1451,
@@ -3547,7 +3547,7 @@
                 "open_issues": 556,
                 "owner": "wasm-bindgen",
                 "repo": "wasm-bindgen",
-                "stars": 9129,
+                "stars": 9130,
                 "topics": [
                   "binding-generator",
                   "javascript",
@@ -3672,10 +3672,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:18:58Z",
-            "open_issues": 1454,
+            "open_issues": 1464,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110631,
+            "stars": 110645,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -3704,7 +3704,7 @@
             "open_issues": 555,
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8614,
+            "stars": 8615,
             "topics": [
               "c-plus-plus",
               "compilers",
@@ -3731,7 +3731,7 @@
             "open_issues": 230,
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8105,
+            "stars": 8106,
             "topics": [
               "webassembly"
             ]
@@ -3783,7 +3783,7 @@
             "open_issues": 135,
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4378,
+            "stars": 4380,
             "topics": [
               "assets",
               "build-tool",
@@ -4170,10 +4170,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:55:20Z",
-            "open_issues": 754,
+            "open_issues": 753,
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 38904,
+            "stars": 38906,
             "topics": [
               "android",
               "css",
@@ -4204,11 +4204,11 @@
             "id": 519882617,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:14:53Z",
+            "last_commit": "2026-08-29T20:56:32Z",
             "open_issues": 131,
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21246,
+            "stars": 21247,
             "topics": [
               "dom",
               "fine-grained",
@@ -4266,7 +4266,7 @@
             "open_issues": 34,
             "owner": "sycamore-rs",
             "repo": "sycamore",
-            "stars": 3344,
+            "stars": 3345,
             "topics": [
               "fine-grained-reactivity",
               "rust",
@@ -4396,11 +4396,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-28T11:12:13Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-29T15:01:55Z",
+            "open_issues": 7,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59031,
+            "stars": 59046,
             "topics": [
               "awesome",
               "rust"
@@ -4424,7 +4424,7 @@
             "open_issues": 95,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9632,
+            "stars": 9631,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4465,7 +4465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:54.484Z",
+    "last_updated": "2026-08-29T21:59:48.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
