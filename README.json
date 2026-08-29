@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust / Wasm framework for creating reliable and efficient web applications",
+            "homepage": "https://yew.rs",
             "id": 114466145,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:19:43Z",
+            "open_issues": 114,
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32790
+            "stars": 32790,
+            "topics": [
+              "asmjs",
+              "concurrency",
+              "elm",
+              "emscripten",
+              "gui",
+              "hacktoberfest",
+              "jsx",
+              "multithreading",
+              "rust",
+              "wasm",
+              "web",
+              "web-framework",
+              "webworkers"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -26,12 +45,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust / Wasm framework for creating reliable and efficient web applications",
+            "homepage": "https://yew.rs",
             "id": 114466145,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:19:43Z",
+            "open_issues": 114,
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32790
+            "stars": 32790,
+            "topics": [
+              "asmjs",
+              "concurrency",
+              "elm",
+              "emscripten",
+              "gui",
+              "hacktoberfest",
+              "jsx",
+              "multithreading",
+              "rust",
+              "wasm",
+              "web",
+              "web-framework",
+              "webworkers"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         }
@@ -48,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist ML framework for Rust",
+            "homepage": null,
             "id": 655797848,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:30:49Z",
+            "open_issues": 895,
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 20966
+            "stars": 20967,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -64,12 +107,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+            "homepage": "https://iggy.apache.org",
             "id": 615853935,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:31:01Z",
+            "open_issues": 180,
             "owner": "apache",
             "repo": "iggy",
-            "stars": 4584
+            "stars": 4586,
+            "topics": [
+              "apache",
+              "http",
+              "iggy",
+              "messaging",
+              "quic",
+              "rust",
+              "streaming",
+              "tcp"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -80,12 +137,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web application completely written in Rust. 🌍 ",
+            "homepage": null,
             "id": 136712523,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:12:07Z",
+            "open_issues": 0,
             "owner": "saschagrunert",
             "repo": "webapp.rs",
-            "stars": 2247
+            "stars": 2247,
+            "topics": [
+              "actix-web",
+              "backend",
+              "diesel",
+              "diesel-rs",
+              "frontend",
+              "http-server",
+              "postgresql",
+              "rust",
+              "webapp",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -96,12 +169,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "media streaming framework and teleconferencing system written in rust",
+            "homepage": "https://www.videocall.rs",
             "id": 548107829,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T08:01:13Z",
+            "open_issues": 73,
             "owner": "security-union",
             "repo": "videocall-rs",
-            "stars": 1784
+            "stars": 1784,
+            "topics": [
+              "actix-web",
+              "google-meets",
+              "rust",
+              "rust-lang",
+              "teleconference",
+              "video-encoding",
+              "vp9",
+              "webcodecs",
+              "yew",
+              "zoom",
+              "zoom-api"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -112,12 +202,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust projects here are easy to use. There are blog posts for them also.",
+            "homepage": "https://www.steadylearner.com",
             "id": 196397560,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-05-10T09:50:06Z",
+            "open_issues": 244,
             "owner": "steadylearner",
             "repo": "Rust-Full-Stack",
-            "stars": 1581
+            "stars": 1581,
+            "topics": [
+              "actix-web",
+              "fullstack-rust",
+              "grpc",
+              "grpc-rust",
+              "rocket-rs",
+              "rust",
+              "rust-backend",
+              "rust-chat",
+              "rust-docker",
+              "rust-example",
+              "rust-frontend",
+              "rust-json-webservice",
+              "rust-microservices",
+              "rust-yew",
+              "sitemap",
+              "steadylearner",
+              "tonic",
+              "warp",
+              "websocket",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -128,12 +244,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.",
+            "homepage": "https://proxelar.micheletti.io",
             "id": 591022890,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:05:10Z",
+            "open_issues": 7,
             "owner": "emanuele-em",
             "repo": "proxelar",
-            "stars": 1050
+            "stars": 1050,
+            "topics": [
+              "cli",
+              "http-proxy",
+              "https-proxy",
+              "man-in-the-middle",
+              "mitm",
+              "network",
+              "network-security",
+              "proxy",
+              "reverse-proxy",
+              "rust",
+              "ssl",
+              "tls",
+              "traffic-inspection",
+              "tui",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -144,12 +281,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!",
+            "homepage": "https://pinepods.online",
             "id": 532135806,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-10T13:26:14Z",
+            "open_issues": 149,
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 970
+            "stars": 970,
+            "topics": [
+              "fastapi",
+              "hacktoberfest",
+              "mariadb",
+              "podcast-player",
+              "podcasts",
+              "postgres",
+              "python",
+              "rust",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -160,12 +312,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exemplary real world app built with Rust + Yew + WebAssembly, by Function Components + Hooks, also supports desktop by Tauri.",
+            "homepage": "https://jetli.github.io/rust-yew-realworld-example-app/",
             "id": 219413766,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-16T03:05:13Z",
+            "open_issues": 6,
             "owner": "jetli",
             "repo": "rust-yew-realworld-example-app",
-            "stars": 885
+            "stars": 885,
+            "topics": [
+              "desktop",
+              "hooks",
+              "react",
+              "realworld",
+              "rust",
+              "tauri",
+              "wasm",
+              "web",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -176,12 +344,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sentry event forwarding and ingestion service.",
+            "homepage": "https://docs.sentry.io/product/relay/",
             "id": 117757315,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:57:17Z",
+            "open_issues": 91,
             "owner": "getsentry",
             "repo": "relay",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "tag-production"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -192,12 +367,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gRPC client from another world",
+            "homepage": null,
             "id": 518481649,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-04-23T14:52:33Z",
+            "open_issues": 0,
             "owner": "eliaperantoni",
             "repo": "spaceman",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "cli",
+              "desktop",
+              "grpc",
+              "grpc-client",
+              "gui",
+              "rust",
+              "tauri",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -208,12 +397,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Blazing fast terminal-style personal site built with Rust WASM",
+            "homepage": "http://zzhack.me/",
             "id": 362553960,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-01-14T11:13:45Z",
+            "open_issues": 0,
             "owner": "mistricky",
             "repo": "zzhack",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "blog",
+              "browser-terminal",
+              "rust",
+              "terminal",
+              "wasm",
+              "webapp",
+              "yew",
+              "zzhack"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -224,12 +427,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform markdown editor.",
+            "homepage": "https://ubiquity.rs",
             "id": 628757809,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-08-01T13:03:01Z",
+            "open_issues": 3,
             "owner": "opensourcecheemsburgers",
             "repo": "ubiquity",
-            "stars": 297
+            "stars": 297,
+            "topics": [
+              "daisyui",
+              "markdown",
+              "tailwind",
+              "tauri",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -240,12 +454,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single Page Application (SPA) written using Rust, Wasm and Yew",
+            "homepage": "http://rustmart-yew.netlify.app",
             "id": 286630139,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-08-31T05:10:21Z",
+            "open_issues": 2,
             "owner": "sheshbabu",
             "repo": "rustmart-yew-example",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "rust",
+              "spa",
+              "wasm",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -256,12 +480,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "tchatchers is a blazing fast chat application built with Axum and Yew.rs",
+            "homepage": "https://tchatche.xyz",
             "id": 529531279,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-04-17T13:54:05Z",
+            "open_issues": 1,
             "owner": "nag763",
             "repo": "tchatchers",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "axum",
+              "nginx",
+              "postgresql",
+              "redis",
+              "rust",
+              "wasm",
+              "websockets",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -272,12 +510,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reverse proxy server with built-in WebUI, supporting TCP/UDP/HTTP/TLS/WebSocket, written in Rust.",
+            "homepage": "https://taxy.dev/",
             "id": 619484425,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-04-06T09:17:03Z",
+            "open_issues": 5,
             "owner": "picoHz",
             "repo": "taxy",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "acme",
+              "http",
+              "http-proxy",
+              "http2",
+              "http3",
+              "proxy",
+              "proxy-server",
+              "quic",
+              "reverse-proxy",
+              "rust",
+              "tcp",
+              "tls-proxy",
+              "tokio",
+              "udp-proxy",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -288,12 +547,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A speed typing web app written in Rust",
+            "homepage": "https://www.crabtyper.com/",
             "id": 449220197,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-08-25T14:13:46Z",
+            "open_issues": 9,
             "owner": "crabtyper",
             "repo": "crabtyper",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "rust",
+              "tailwindcss",
+              "trunk",
+              "webassembly",
+              "yew",
+              "yewdux"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -304,12 +575,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rust feature search",
+            "homepage": "https://caniuse.rs/",
             "id": 244996647,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-05-13T10:10:50Z",
+            "open_issues": 8,
             "owner": "jplatte",
             "repo": "caniuse.rs",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "hacktoberfest",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -320,12 +599,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure firmware framework focusing on developer experience",
+            "homepage": "https://google.github.io/wasefire/",
             "id": 599598236,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T07:40:16Z",
+            "open_issues": 65,
             "owner": "google",
             "repo": "wasefire",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "embedded",
+              "firmware",
+              "framework",
+              "iot",
+              "rust",
+              "security",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -336,12 +628,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kiomet.com real-time strategy game (repository commits may lag behind game updates) ",
+            "homepage": "https://kiomet.com",
             "id": 679879737,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2025-09-10T02:21:14Z",
+            "open_issues": 6,
             "owner": "SoftbearStudios",
             "repo": "kiomet",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "browser-game",
+              "combat",
+              "game",
+              "game-server",
+              "multiplayer",
+              "real-time-strategy",
+              "rust",
+              "rust-lang",
+              "tower",
+              "web-game",
+              "webassembly",
+              "webgl",
+              "webgl-game",
+              "yew",
+              "yew-framework"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -352,12 +665,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, network enabled karaoke player in Rust",
+            "homepage": null,
             "id": 181776012,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-06-08T22:37:14Z",
+            "open_issues": 10,
             "owner": "tarkah",
             "repo": "karaoke-rs",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "actix-web",
+              "glium",
+              "karaoke",
+              "music",
+              "rodio",
+              "rust",
+              "wasm",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -368,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yew Styles is a style framework for yew",
+            "homepage": "https://yewstyles.spielrs.tech/",
             "id": 236396155,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-20T23:12:25Z",
+            "open_issues": 21,
             "owner": "spielcrypto",
             "repo": "yew_styles",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -384,12 +716,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2048 game implemented with Rust and Yew and compiled to WASM",
+            "homepage": null,
             "id": 322633254,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-12-30T12:09:08Z",
+            "open_issues": 1,
             "owner": "dev-family",
             "repo": "wasm-2048",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -400,12 +737,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly.",
+            "homepage": "https://diff.rs",
             "id": 610996734,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-23T09:52:23Z",
+            "open_issues": 44,
             "owner": "xfbs",
             "repo": "diff.rs",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "diff",
+              "rust",
+              "site",
+              "static",
+              "wasm",
+              "yew",
+              "yew-router"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -416,12 +766,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source DAW with a node graph system.",
+            "homepage": "https://crates.io/crates/chipbox",
             "id": 287346713,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-04-24T17:14:42Z",
+            "open_issues": 13,
             "owner": "chipnertkj",
             "repo": "chipbox",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "asio",
+              "audio",
+              "beepbox",
+              "clap",
+              "daw",
+              "digital-audio-workstation",
+              "jack",
+              "microtonal",
+              "midi",
+              "music",
+              "rust",
+              "sfz",
+              "synth",
+              "vst",
+              "vst3",
+              "wasapi",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -432,12 +806,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various algorithms visualized interactively on the web, entirely with Rust 🦀",
+            "homepage": "https://algorust.dev",
             "id": 456622886,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-07-17T15:10:02Z",
+            "open_issues": 1,
             "owner": "Jondolf",
             "repo": "Algorust",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "pathfinding",
+              "rust",
+              "rust-web",
+              "sorting-algorithms",
+              "visualization",
+              "wasm",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -448,12 +837,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple WebRTC chat made with Yew",
+            "homepage": "https://codec-abc.github.io/Rust-WebRTC-p2p-Chat/",
             "id": 268253119,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-08-17T11:36:50Z",
+            "open_issues": 2,
             "owner": "codec-abc",
             "repo": "Yew-WebRTC-Chat",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "chat",
+              "rust",
+              "wasm",
+              "webrtc",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -464,12 +864,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draft cube shuffle utility",
+            "homepage": null,
             "id": 432368255,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-15T12:12:00Z",
+            "open_issues": 29,
             "owner": "philipborg",
             "repo": "CubeShuffle",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "card-game",
+              "cube",
+              "magic-the-gathering",
+              "mtg",
+              "shuffle",
+              "tauri",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -480,12 +893,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lightweight desktop todomvc implementation using rust,wasm and web-view",
+            "homepage": null,
             "id": 221487453,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-01-20T22:02:48Z",
+            "open_issues": 15,
             "owner": "extrawurst",
             "repo": "rust-webview-todomvc-yew",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "rust",
+              "rust-lang",
+              "todomvc",
+              "wasm",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -496,12 +920,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A one-stop solution for moderating discussions and Q&As.",
+            "homepage": "https://live-ask.com",
             "id": 445533047,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:07:35Z",
+            "open_issues": 4,
             "owner": "liveask",
             "repo": "liveask",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "ask-me-anything",
+              "discussions",
+              "distributed-systems",
+              "events",
+              "feedback",
+              "moderation",
+              "real-time",
+              "realtime",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -512,12 +951,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syre workspace.",
+            "homepage": "https://syre.ai",
             "id": 599255135,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-05-08T07:40:20Z",
+            "open_issues": 3,
             "owner": "syre-data",
             "repo": "syre",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -528,12 +974,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile App CI workflow GEnerator: Android, iOS, Flutter, and React Native!",
+            "homepage": "https://macige.tramline.app",
             "id": 561889634,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-06-07T21:45:25Z",
+            "open_issues": 4,
             "owner": "tramlinehq",
             "repo": "macige",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "android",
+              "ci",
+              "cicd",
+              "flutter",
+              "github-actions",
+              "highlight-js",
+              "ios",
+              "react-native",
+              "rust",
+              "wasm",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -544,12 +1007,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference implementation of a full-stack Rust application",
+            "homepage": null,
             "id": 363203966,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-09T14:44:47Z",
+            "open_issues": 1,
             "owner": "vascokk",
             "repo": "fullstack-rust",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "actix",
+              "api",
+              "fullstack",
+              "rest",
+              "rust",
+              "wasm",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -560,12 +1037,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compatible with LessPass. RustedLessPass is a standalone password manager written in Rust. Powered by Rust / Wasm.",
+            "homepage": "https://rustedlesspass.github.io",
             "id": 771122221,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-05T18:20:29Z",
+            "open_issues": 2,
             "owner": "RustedLessPass",
             "repo": "RustedLessPass",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "anonymous",
+              "lesspass",
+              "password",
+              "password-manager",
+              "picocss",
+              "privacy",
+              "rust",
+              "self-hosted",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -576,12 +1068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A principled take on minesweeper",
+            "homepage": "https://alexbuz.github.io/mindsweeper/",
             "id": 731803676,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-30T05:31:19Z",
+            "open_issues": 1,
             "owner": "AlexBuz",
             "repo": "mindsweeper",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -592,12 +1089,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "visual studio code extension simply view the image of the image variables when debugging python",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=elazarcoh.simply-view-image-for-python-debugging",
             "id": 292194114,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-20T01:11:23Z",
+            "open_issues": 17,
             "owner": "elazarcoh",
             "repo": "simply-view-image-for-python-debugging",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -608,12 +1112,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A load balancing link shortener",
+            "homepage": "https://hurlurl.com",
             "id": 516846879,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-07-25T06:56:15Z",
+            "open_issues": 0,
             "owner": "lucasmerlin",
             "repo": "hurlurl",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "daisyui",
+              "diesel",
+              "link-shortener",
+              "rust",
+              "tailwind",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -624,12 +1140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project shows how to create a web app using a React component inside a Yew component.",
+            "homepage": null,
             "id": 203168910,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-17T10:18:35Z",
+            "open_issues": 3,
             "owner": "hobofan",
             "repo": "yew-react-example",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -640,12 +1161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "im app frontend",
+            "homepage": null,
             "id": 760305820,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-08-16T14:36:27Z",
+            "open_issues": 0,
             "owner": "Xu-Mj",
             "repo": "sandcat",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -656,12 +1182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM) ",
+            "homepage": null,
             "id": 331574478,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-29T03:31:30Z",
+            "open_issues": 0,
             "owner": "songday",
             "repo": "blog-rs",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -672,12 +1203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly opinionated boilerplate for creating full stack applications with Rust",
+            "homepage": null,
             "id": 270363447,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-07T18:54:09Z",
+            "open_issues": 22,
             "owner": "lukidoescode",
             "repo": "yew-fullstack-boilerplate",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -688,12 +1224,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal website written in rust via yew/wasm",
+            "homepage": null,
             "id": 294963753,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-03-03T14:25:54Z",
+            "open_issues": 0,
             "owner": "kamiyaa",
             "repo": "website-wasm",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "rust",
+              "virtual-dom",
+              "wasm",
+              "wasm-bindgen",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -704,12 +1251,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.",
+            "homepage": null,
             "id": 337454856,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-05-24T13:16:46Z",
+            "open_issues": 1,
             "owner": "LighghtEeloo",
             "repo": "flow.er",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "notes-app",
+              "rust",
+              "todo-list",
+              "trunkrs",
+              "wasm",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -720,12 +1279,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realtime, cross-platform audio processing & synthesis.",
+            "homepage": "https://austintheriot.github.io/resonix/",
             "id": 501499235,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-23T03:16:31Z",
+            "open_issues": 2,
             "owner": "austintheriot",
             "repo": "resonix",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "dsp",
+              "granular-synthesis",
+              "rust",
+              "synthesis",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -736,12 +1306,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Blog built on pure Rust stack. Backend for graphql services, and frontend for web application.",
+            "homepage": "https://niqin.com",
             "id": 330967672,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-08T09:56:43Z",
+            "open_issues": 0,
             "owner": "zzy",
             "repo": "surfer",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "async-graphql",
+              "blog",
+              "graphql-services",
+              "handlebars-rust",
+              "jwt-auth",
+              "mongodb",
+              "rhai",
+              "rust",
+              "surf",
+              "tide",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -752,12 +1339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toy project to learn rust and async that can be deoplyed to the web.",
+            "homepage": null,
             "id": 201373813,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-07T08:33:39Z",
+            "open_issues": 13,
             "owner": "extraymond",
             "repo": "rust-async-wasm-demo",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -768,12 +1360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just A Rust Wasm Blog",
+            "homepage": null,
             "id": 209694110,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-11T14:15:39Z",
+            "open_issues": 22,
             "owner": "stkevintan",
             "repo": "Kirk",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -784,12 +1381,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clean boilerplate for graphql services, wasm/yew frontend, handlebars frontend. Using tide, rhai, async-graphql, surf, graphql-client, yew, handlebars, jsonwebtoken, and mongodb.",
+            "homepage": "https://niqin.com",
             "id": 325015469,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-08T09:52:12Z",
+            "open_issues": 2,
             "owner": "zzy",
             "repo": "tide-async-graphql-mongodb",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "async-graphql",
+              "handlebars",
+              "jwt-auth",
+              "mongodb",
+              "rhai",
+              "rust",
+              "surf",
+              "tide",
+              "wasm",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -800,12 +1414,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wordle in Rust",
+            "homepage": "https://pmsanford.github.io/paudle/",
             "id": 448665337,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2022-10-11T02:03:44Z",
+            "open_issues": 0,
             "owner": "pmsanford",
             "repo": "paudle",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "rust",
+              "webassembly",
+              "wordle",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -816,12 +1440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DevAndDev helps developers finding pair-programming partners.",
+            "homepage": null,
             "id": 270830665,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-24T14:41:14Z",
+            "open_issues": 58,
             "owner": "alepez",
             "repo": "devand",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -832,12 +1461,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web app that can hash/hmac, encrypt/decrypt, and sign/verify the data, debug JWT tokens, parse and edit ASN1 structures, compute diffs, and more",
+            "homepage": "https://crypto.qkation.com",
             "id": 547508458,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-20T11:09:24Z",
+            "open_issues": 3,
             "owner": "TheBestTvarynka",
             "repo": "crypto-helper",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "asn1",
+              "asn1-decoder",
+              "asn1-der",
+              "asn1parse",
+              "crypto",
+              "cryptography",
+              "diff-checker",
+              "jwt-decode",
+              "jwt-decoder",
+              "jwt-decoding",
+              "rust",
+              "utilities",
+              "utility",
+              "wasm",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -848,12 +1499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minesweeper built with rust, yew and web assembly",
+            "homepage": null,
             "id": 245681680,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-02-04T00:46:53Z",
+            "open_issues": 2,
             "owner": "jgpaiva",
             "repo": "minesweeper",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -864,12 +1520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Rust / Wasm client web app which is a task control center. You can create timed tasks for your devices which support tcp connection and execute tasks on time through its core.",
+            "homepage": null,
             "id": 288068023,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2020-09-21T08:01:10Z",
+            "open_issues": 0,
             "owner": "pipe-fun",
             "repo": "pipe",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -880,12 +1541,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "National Vulnerability Database (NVD) implemented by rust",
+            "homepage": "https://scap.kali-team.cn/",
             "id": 609026135,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-01T07:54:15Z",
+            "open_issues": 14,
             "owner": "emo-crab",
             "repo": "scap-rs",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "actix-web",
+              "cpe",
+              "cve",
+              "cvss",
+              "cvssv3",
+              "cvssv4",
+              "cwe",
+              "exploit",
+              "nuclei-templates",
+              "nvd",
+              "rust",
+              "scap",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -896,12 +1576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A clone of the mobile game I Love Hue in Yew (Rust)",
+            "homepage": "https://noc7c9.github.io/i-love-hue-rs",
             "id": 237568682,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-02-10T03:50:55Z",
+            "open_issues": 0,
             "owner": "noc7c9",
             "repo": "i-love-hue-rs",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -912,12 +1597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example using a d3 chart with Yew",
+            "homepage": null,
             "id": 356973609,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-04-12T07:46:35Z",
+            "open_issues": 0,
             "owner": "ivnsch",
             "repo": "yew-d3-example",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -928,12 +1618,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust UI framework built on WASI.",
+            "homepage": "https://hikari.docs.celestia.world",
             "id": 588184956,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T01:56:10Z",
+            "open_issues": 1,
             "owner": "celestia-island",
             "repo": "hikari",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "engine",
+              "frontend",
+              "rust",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -944,12 +1644,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live graphs of worldwide CoVID-19 data",
+            "homepage": null,
             "id": 247784040,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-01-20T22:04:09Z",
+            "open_issues": 14,
             "owner": "jbowens",
             "repo": "covplot",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "coronavirus",
+              "coronavirus-tracker",
+              "covid-19",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -960,12 +1671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy support for Octicons in yew",
+            "homepage": null,
             "id": 279436288,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-10-30T10:48:13Z",
+            "open_issues": 3,
             "owner": "io12",
             "repo": "yew-octicons",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -976,12 +1692,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦀Blazingly Fast Windows Terminal Theme Generator 🦀",
+            "homepage": "https://windows-terminal-theme-generator.netlify.app",
             "id": 767005007,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-22T00:09:23Z",
+            "open_issues": 0,
             "owner": "LelouchFR",
             "repo": "windows-terminal-theme-generator",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "html",
+              "rust",
+              "scss",
+              "stylist",
+              "theme-generator",
+              "windows",
+              "windows-terminal",
+              "windows-terminal-theme",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -992,12 +1723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This example demonstrates yew server-side rendering with actix-web.",
+            "homepage": null,
             "id": 462137674,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-02-22T06:45:00Z",
+            "open_issues": 0,
             "owner": "zzy",
             "repo": "yew-ssr-actix-web",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1008,12 +1744,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "rust electron demo using yew",
+            "homepage": null,
             "id": 222709720,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-10T09:28:51Z",
+            "open_issues": 14,
             "owner": "extrawurst",
             "repo": "rust-electron-demo",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "electron",
+              "rust",
+              "wasm",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1024,12 +1770,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practice recognizing chords in this Rust/Yew/Webassembly app",
+            "homepage": "https://stigjb.github.io/chord-quiz",
             "id": 264179738,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-20T22:40:25Z",
+            "open_issues": 27,
             "owner": "Stigjb",
             "repo": "chord-quiz",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "music-notation",
+              "music-theory",
+              "wasm",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1040,12 +1796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A feed reader write in rust",
+            "homepage": null,
             "id": 318001592,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-14T14:46:40Z",
+            "open_issues": 5,
             "owner": "sanpii",
             "repo": "oxfeed",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1056,12 +1817,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "My personal website's source code",
+            "homepage": "https://spencer.imbleau.com",
             "id": 458416179,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T05:54:28Z",
+            "open_issues": 0,
             "owner": "nuzzles",
             "repo": "website",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "rust",
+              "website",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1072,12 +1842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The engine of image hosting written in Rust.",
+            "homepage": null,
             "id": 764232320,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T23:43:19Z",
+            "open_issues": 4,
             "owner": "langyo",
             "repo": "0721",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1088,12 +1863,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-user issue tracking and knowledge base app built with Yew & Actix",
+            "homepage": null,
             "id": 579585968,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-06-26T05:04:39Z",
+            "open_issues": 24,
             "owner": "vgwidt",
             "repo": "sumi",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "actix-web",
+              "full-stack",
+              "issue-tracker",
+              "knowledge-base",
+              "rust",
+              "ticketing-system",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1104,12 +1892,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust WebAssembly Website example for practising english for chinese.",
+            "homepage": "https://rayylee.github.io/keypress",
             "id": 339577499,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2022-10-07T09:32:20Z",
+            "open_issues": 0,
             "owner": "rayylee",
             "repo": "keypress",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "rust",
+              "wasm",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1120,12 +1918,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rubik's cube solver that runs in a web browser, written in rust. ",
+            "homepage": "https://wainwrightmark.github.io/puzzle_cube/",
             "id": 497609182,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-06-22T18:27:29Z",
+            "open_issues": 0,
             "owner": "wainwrightmark",
             "repo": "puzzle_cube",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "puzzle",
+              "rubiks-cube",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1136,12 +1943,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configurable Hangman game for children with ASCII-art rewarding (Gitlab mirror)",
+            "homepage": "http://blog.getreu.net/projects/ascii-hangman",
             "id": 50797298,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-10-31T16:09:46Z",
+            "open_issues": 0,
             "owner": "getreu",
             "repo": "ascii-hangman",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ascii-art",
+              "children",
+              "hangman-game"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1152,12 +1968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple example program for creating password archives in ZIP format, running in a browser using WebAssembly.",
+            "homepage": "https://mae664128.github.io/demo_web_zip_wasm/",
             "id": 778746257,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-05-23T08:41:21Z",
+            "open_issues": 0,
             "owner": "MAE664128",
             "repo": "demo_web_zip_wasm",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1168,12 +1989,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A webapp written entirely in Rust for a dumb party game.",
+            "homepage": null,
             "id": 184834729,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2020-08-01T03:34:33Z",
+            "open_issues": 17,
             "owner": "hgzimmerman",
             "repo": "BucketQuestions",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1184,12 +2010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A patience game written in Rust and Yew",
+            "homepage": "https://stigjb.github.io/freecell",
             "id": 261762017,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-20T23:25:31Z",
+            "open_issues": 15,
             "owner": "Stigjb",
             "repo": "freecell",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1200,12 +2031,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A yew frontend for dot voting",
+            "homepage": "https://shaunbennett.github.io/dotdotyew/",
             "id": 305154261,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-10-30T03:51:27Z",
+            "open_issues": 6,
             "owner": "shaunbennett",
             "repo": "dotdotyew",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "frontend",
+              "rust",
+              "voting",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1216,12 +2057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "my yew app using hooks",
+            "homepage": null,
             "id": 341490406,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-05T03:17:55Z",
+            "open_issues": 0,
             "owner": "anthhub",
             "repo": "yew-train-ticket",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1232,12 +2078,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://galaster.github.io/note-to-yew",
             "id": 305054494,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2020-10-19T09:05:06Z",
+            "open_issues": 0,
             "owner": "oovm",
             "repo": "note-to-yew",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1248,12 +2099,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anime quote web app that fetches data from Animechan (https://animechan.vercel.app/)",
+            "homepage": "https://rquote.vercel.app/",
             "id": 448438704,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-08-11T18:37:09Z",
+            "open_issues": 3,
             "owner": "Altair-Bueno",
             "repo": "rquote",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bootstrap",
+              "rust",
+              "wasm",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1264,12 +2125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple sketch of a sea battle game. Rust + WebAssembly (yew-rs) ",
+            "homepage": "https://mae664128.github.io/sea_battle/",
             "id": 378948090,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-07-09T13:36:11Z",
+            "open_issues": 0,
             "owner": "MAE664128",
             "repo": "sea_battle",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1280,12 +2146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 462143542,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-02-22T06:51:08Z",
+            "open_issues": 0,
             "owner": "zzy",
             "repo": "yew-ssr-tide",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1296,12 +2167,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wecome Website Competition",
+            "homepage": "https://wecome-itb.com/",
             "id": 458836119,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-04-08T00:08:52Z",
+            "open_issues": 0,
             "owner": "kabinetkmitb",
             "repo": "wecome",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1312,12 +2190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official documentation site for Viz.rs. ",
+            "homepage": "https://viz.rs",
             "id": 1149347427,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-29T19:39:58Z",
+            "open_issues": 0,
             "owner": "viz-rs",
             "repo": "viz-rs.github.io",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         }
@@ -1334,12 +2217,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a modern Yew web app by running one command. ",
+            "homepage": "https://jetli.github.io/create-yew-app/",
             "id": 229477584,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-16T02:55:51Z",
+            "open_issues": 3,
             "owner": "jetli",
             "repo": "create-yew-app",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "create-yew-app",
+              "rust",
+              "wasm",
+              "wasm-bindgen",
+              "wasm-pack",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1350,12 +2246,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust + Yew + Axum + Tauri + Tailwindcss, full-stack Rust development for Desktop apps.",
+            "homepage": null,
             "id": 480833054,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-17T01:06:53Z",
+            "open_issues": 0,
             "owner": "jetli",
             "repo": "rust-yew-axum-tauri-desktop",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "axum",
+              "desktop",
+              "rust",
+              "tailwindcss",
+              "tauri",
+              "wasm",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1366,12 +2276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starter project that sets up axum and yew for full stack Rust web apps.",
+            "homepage": null,
             "id": 477510605,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-09-04T14:10:58Z",
+            "open_issues": 1,
             "owner": "rksm",
             "repo": "axum-yew-setup",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1382,12 +2297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for starting a Yew project to be used with wasm-pack",
+            "homepage": "https://todomvc.yew.rs/",
             "id": 199958409,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-26T00:28:13Z",
+            "open_issues": 10,
             "owner": "yewstack",
             "repo": "yew-wasm-pack-template",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1398,12 +2318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal template for starting a Yew project using wasm-bindgen and wasm-pack",
+            "homepage": null,
             "id": 201705031,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-19T08:17:39Z",
+            "open_issues": 4,
             "owner": "yewstack",
             "repo": "yew-wasm-pack-minimal",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1414,12 +2339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Yew with Yew-Router and Parcel application",
+            "homepage": null,
             "id": 217928293,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-01-07T11:08:21Z",
+            "open_issues": 8,
             "owner": "spielcrypto",
             "repo": "yew-parcel-template",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1430,12 +2360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal Progressive Web App using Yew.",
+            "homepage": null,
             "id": 264194344,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-11T04:10:34Z",
+            "open_issues": 2,
             "owner": "fkohlgrueber",
             "repo": "yew-pwa-minimal",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1446,12 +2381,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template of yew project, using tailwind and webpack for css, trunk for build and serve, deployable as is for github.io",
+            "homepage": "https://ja-sonyun.github.io/yew-template-for-github-io/",
             "id": 472773744,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-04-09T15:16:15Z",
+            "open_issues": 0,
             "owner": "Ja-sonYun",
             "repo": "yew-template-for-github-io",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "github-io",
+              "github-io-page",
+              "rust",
+              "tailwind",
+              "trunk",
+              "webpack",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1462,12 +2410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 479001619,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-04-10T11:49:33Z",
+            "open_issues": 0,
             "owner": "vvcaw",
             "repo": "tailwindcss-yew-template",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1478,12 +2431,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yew starter template including a simple HTTP request",
+            "homepage": null,
             "id": 514439999,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-07-17T04:49:33Z",
+            "open_issues": 0,
             "owner": "LeTurt333",
             "repo": "yew_http_starter",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "rust",
+              "rust-lang",
+              "yew",
+              "yew-framework"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -1494,12 +2457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Yew starter template",
+            "homepage": "https://averichev.github.io/yew-starter-template/",
             "id": 728203241,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-12-22T08:43:13Z",
+            "open_issues": 0,
             "owner": "averichev",
             "repo": "yew-starter-template",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         }
@@ -1518,12 +2486,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Port of blueprintjs.com to Yew",
+                "homepage": "https://yewprint.rm.rs",
                 "id": 292625947,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-06-02T08:12:35Z",
+                "open_issues": 24,
                 "owner": "yewprint",
                 "repo": "yewprint",
-                "stars": 451
+                "stars": 451,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1534,12 +2507,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Yew component library based on the Bulma CSS framework.",
+                "homepage": null,
                 "id": 293984185,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-30T19:39:31Z",
+                "open_issues": 21,
                 "owner": "thedodd",
                 "repo": "ybc",
-                "stars": 256
+                "stars": 256,
+                "topics": [
+                  "bulma",
+                  "css",
+                  "sass",
+                  "wasm",
+                  "web",
+                  "ybc",
+                  "yew",
+                  "yew-components"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1550,12 +2537,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yew wrapper for Material Web Components",
+                "homepage": "https://material-yew.rm.rs",
                 "id": 296639515,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-17T10:36:58Z",
+                "open_issues": 15,
                 "owner": "ranile",
                 "repo": "material-yew",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "material-components",
+                  "material-design",
+                  "rust",
+                  "wasm",
+                  "wrapper",
+                  "yew",
+                  "yew-material"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1566,12 +2566,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PatternFly components for Yew",
+                "homepage": "https://patternfly-yew.github.io/patternfly-yew-quickstart/",
                 "id": 304961438,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-19T13:26:16Z",
+                "open_issues": 26,
                 "owner": "patternfly-yew",
                 "repo": "patternfly-yew",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "frontend-web",
+                  "patternfly",
+                  "rust",
+                  "web-assembly",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1582,12 +2593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build tailwind css for yew style applications, using docker-compose, so you don't need to have npm installed",
+                "homepage": null,
                 "id": 338579561,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2022-11-30T13:16:30Z",
+                "open_issues": 3,
                 "owner": "matiu2",
                 "repo": "tailwind-yew-builder",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1598,12 +2614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 401597826,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-27T06:20:30Z",
+                "open_issues": 1,
                 "owner": "titanclass",
                 "repo": "yew-chart",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1614,12 +2635,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Design Components for the Yew framework",
+                "homepage": "https://angular-rust.github.io/",
                 "id": 336963872,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2021-07-18T21:33:15Z",
+                "open_issues": 5,
                 "owner": "angular-rust",
                 "repo": "yew-components",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "material",
+                  "material-design",
+                  "material-design-components",
+                  "mdc",
+                  "rust",
+                  "ui-components",
+                  "wasm",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1630,12 +2665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Design Components for the Yew framework",
+                "homepage": null,
                 "id": 221397105,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-05-10T00:09:28Z",
+                "open_issues": 4,
                 "owner": "dungeonfog",
                 "repo": "yew-mdc",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1646,12 +2686,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bootstrap 5 Components for the Yew Framework",
+                "homepage": "https://crates.io/crates/yew-bootstrap",
                 "id": 432463841,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-02-08T21:39:42Z",
+                "open_issues": 11,
                 "owner": "isosphere",
                 "repo": "yew-bootstrap",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "bootstrap",
+                  "rust",
+                  "wasm",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1662,12 +2712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WIP] MUI-CSS Components for Yew framework",
+                "homepage": null,
                 "id": 233719874,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-04-10T12:22:43Z",
+                "open_issues": 1,
                 "owner": "AlephAlpha",
                 "repo": "muicss-yew",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1678,12 +2733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust library providing components based on the bulma css library for projects using the yew front-end web development framework.",
+                "homepage": null,
                 "id": 280721633,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-05-19T04:48:32Z",
+                "open_issues": 0,
                 "owner": "kellpossible",
                 "repo": "yew-bulma",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1694,12 +2754,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yew components for Feather icons",
+                "homepage": "https://crates.io/crates/yew-feather",
                 "id": 317315380,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-11-09T20:29:33Z",
+                "open_issues": 2,
                 "owner": "pedrodesu",
                 "repo": "yew-feather",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "icons",
+                  "svg",
+                  "wasm",
+                  "web",
+                  "yew",
+                  "yew-components"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1710,12 +2782,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yew wrapper around daisy components ",
+                "homepage": "https://fuzzycloud.github.io/tailyew",
                 "id": 479100911,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-08-14T02:22:44Z",
+                "open_issues": 0,
                 "owner": "fuzzycloud",
                 "repo": "tailyew",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "daisyui",
+                  "rust",
+                  "tailwindcss",
+                  "webassembly",
+                  "yew",
+                  "yew-framework"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1726,12 +2810,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KaiCode 2026 WINNER! Enterprise-grade navigation library for Yew — automatic active state detection and a complete component system.",
+                "homepage": "https://raprogramm.github.io/yew-nav-link/",
                 "id": 755454711,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T06:20:14Z",
+                "open_issues": 3,
                 "owner": "RAprogramm",
                 "repo": "yew-nav-link",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "nav-link",
+                  "navigation",
+                  "navigation-link",
+                  "navlink",
+                  "rust",
+                  "wasm",
+                  "yew",
+                  "yew-router"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1742,12 +2840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yew web components, implementing Material Design.",
+                "homepage": null,
                 "id": 595392665,
                 "language": "Rust",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-06-03T10:16:11Z",
+                "open_issues": 0,
                 "owner": "RustVis",
                 "repo": "zu",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1758,12 +2861,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Duskmoon UI Component Library.",
+                "homepage": "https://duskmoon-dev.github.io/yew-duskmoon-ui/",
                 "id": 588211856,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T23:19:32Z",
+                "open_issues": 1,
                 "owner": "duskmoon-dev",
                 "repo": "yew-duskmoon-ui",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "rust",
+                  "wasm",
+                  "webassembly",
+                  "yew",
+                  "yew-app",
+                  "yew-demo",
+                  "yew-router",
+                  "yewdux"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             }
@@ -1781,12 +2898,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Components to simplify handling forms with Yew",
+                "homepage": null,
                 "id": 242811953,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-23T23:24:11Z",
+                "open_issues": 9,
                 "owner": "jfbilodeau",
                 "repo": "yew_form",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "rust",
+                  "yew",
+                  "yew-form"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1797,12 +2923,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General purpose OAuth2 component for Yew",
+                "homepage": null,
                 "id": 479032456,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T13:54:53Z",
+                "open_issues": 9,
                 "owner": "ctron",
                 "repo": "yew-oauth2",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "authentication",
+                  "oauth2",
+                  "oidc",
+                  "openid-connect",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1813,12 +2950,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Yew component that emits events when the parent component changes width/height.",
+                "homepage": "https://docs.rs/yew-component-size/",
                 "id": 320716007,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2020-12-19T21:30:47Z",
+                "open_issues": 0,
                 "owner": "AircastDev",
                 "repo": "yew-component-size",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1829,12 +2971,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Yew component for virtual scrolling / scroll windowing",
+                "homepage": "https://docs.rs/yew-virtual-scroller/",
                 "id": 322940696,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2020-12-19T21:30:18Z",
+                "open_issues": 1,
                 "owner": "AircastDev",
                 "repo": "yew-virtual-scroller",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1845,12 +2992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom scroll bar for yew",
+                "homepage": null,
                 "id": 499151659,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-08T13:45:42Z",
+                "open_issues": 2,
                 "owner": "MatchaChoco010",
                 "repo": "yew-scroll-area",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             }
@@ -1868,12 +3020,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hooks for Yew, inspired by streamich/react-use and alibaba/hooks.",
+                "homepage": "https://jetli.github.io/yew-hooks/",
                 "id": 441040825,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-24T08:29:48Z",
+                "open_issues": 9,
                 "owner": "jetli",
                 "repo": "yew-hooks",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "hooks",
+                  "react",
+                  "react-hooks",
+                  "rust",
+                  "wasm",
+                  "webassembly",
+                  "yew",
+                  "yew-hooks"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1884,12 +3050,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The uncomplicated Yew State management library",
+                "homepage": "https://bounce-rs.org",
                 "id": 431415107,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-30T11:27:36Z",
+                "open_issues": 15,
                 "owner": "bounce-rs",
                 "repo": "bounce",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "rust",
+                  "state-management",
+                  "wasm",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1900,12 +3076,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightning fast state management module for Yew.",
+                "homepage": null,
                 "id": 474723599,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-04-20T19:27:18Z",
+                "open_issues": 0,
                 "owner": "yewv",
                 "repo": "yewv",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "management",
+                  "module",
+                  "rust",
+                  "state",
+                  "store",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1916,12 +3104,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reconcile Side Effects in Yew Applications",
+                "homepage": "https://crates.io/crates/yew-side-effect",
                 "id": 394141657,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-05T10:28:58Z",
+                "open_issues": 0,
                 "owner": "futursolo",
                 "repo": "yew-side-effect",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "rust",
+                  "wasm",
+                  "webassembly",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             }
@@ -1939,12 +3137,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plotly for Rust",
+                "homepage": "https://docs.rs/plotly",
                 "id": 236299679,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T03:03:30Z",
+                "open_issues": 14,
                 "owner": "plotly",
                 "repo": "plotly.rs",
-                "stars": 1451
+                "stars": 1451,
+                "topics": [
+                  "barchart",
+                  "candlestick-chart",
+                  "chart",
+                  "data-visualization",
+                  "data-vizualisation",
+                  "financial",
+                  "financial-analysis",
+                  "plot",
+                  "plotly",
+                  "plotlyjs",
+                  "rust",
+                  "scatter",
+                  "scatterplot",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1955,12 +3173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust bindings for AG Grid",
+                "homepage": null,
                 "id": 536539920,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-31T14:51:06Z",
+                "open_issues": 4,
                 "owner": "mfreeborn",
                 "repo": "ag-grid-rs",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -1971,12 +3194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Popper bindings for Rust",
+                "homepage": null,
                 "id": 668749795,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T06:53:54Z",
+                "open_issues": 0,
                 "owner": "ctron",
                 "repo": "popper-rs",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             }
@@ -1994,12 +3222,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CSS-in-Rust styling solution for WebAssembly Applications",
+                "homepage": "https://crates.io/crates/stylist",
                 "id": 391642941,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-06-22T21:22:05Z",
+                "open_issues": 26,
                 "owner": "futursolo",
                 "repo": "stylist-rs",
-                "stars": 384
+                "stars": 384,
+                "topics": [
+                  "css",
+                  "rust",
+                  "wasm",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2010,12 +3248,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ergonomic state management for Yew applications",
+                "homepage": "https://intendednull.github.io/yewdux/",
                 "id": 279200157,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-07T18:19:54Z",
+                "open_issues": 7,
                 "owner": "intendednull",
                 "repo": "yewdux",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "rust",
+                  "state",
+                  "state-container",
+                  "state-management",
+                  "store",
+                  "wasm",
+                  "web",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2026,12 +3278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://tailwind-wasm.netlify.app/",
                 "id": 448939615,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-12T04:28:47Z",
+                "open_issues": 11,
                 "owner": "oovm",
                 "repo": "tailwind-rs",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2042,12 +3299,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.",
+                "homepage": null,
                 "id": 637487755,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-05-02T15:35:59Z",
+                "open_issues": 3,
                 "owner": "myFavShrimp",
                 "repo": "turf",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "css",
+                  "dioxus",
+                  "leptos",
+                  "rust",
+                  "scss",
+                  "wasm",
+                  "web",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2058,12 +3329,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Yew components from React components via Typescript type definitions",
+                "homepage": null,
                 "id": 312057193,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-16T20:39:23Z",
+                "open_issues": 6,
                 "owner": "hobofan",
                 "repo": "reacty_yew",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "jsx",
+                  "proc-macro",
+                  "react",
+                  "typescript",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2074,12 +3356,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily include a variety of SVGs into your Yew app",
+                "homepage": "https://crates.io/crates/yew_icons",
                 "id": 479614034,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-03-25T22:26:55Z",
+                "open_issues": 0,
                 "owner": "finnbear",
                 "repo": "yew_icons",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "crate",
+                  "icon",
+                  "iconpack",
+                  "icons",
+                  "rust",
+                  "rust-crate",
+                  "rust-lang",
+                  "yew",
+                  "yew-components",
+                  "yew-framework"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2090,12 +3388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A crate to separate your HTML from your Rust code when using Yew",
+                "homepage": "https://crates.io/crates/yew-template",
                 "id": 548500790,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-08-26T15:09:31Z",
+                "open_issues": 8,
                 "owner": "INSAgenda",
                 "repo": "yew-template",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2106,12 +3409,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Load Javascript and CSS asynchronously in yew",
+                "homepage": "https://madoshakalaka.github.io/yew-interop",
                 "id": 440743383,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-03-13T14:06:04Z",
+                "open_issues": 6,
                 "owner": "Madoshakalaka",
                 "repo": "yew-interop",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "codesplitting",
+                  "interop",
+                  "rust",
+                  "wasm",
+                  "webassembly",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2122,12 +3437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 234972643,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-01-07T13:54:08Z",
+                "open_issues": 17,
                 "owner": "IcyDefiance",
                 "repo": "styled-yew",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2138,12 +3458,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Styled Component for yew",
+                "homepage": null,
                 "id": 466413335,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-04T22:50:16Z",
+                "open_issues": 1,
                 "owner": "MatchaChoco010",
                 "repo": "yew-style-in-rs",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "css",
+                  "wasm",
+                  "web",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2154,12 +3484,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A router for Yew supporting nesting",
+                "homepage": null,
                 "id": 573509775,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-17T06:39:21Z",
+                "open_issues": 3,
                 "owner": "ctron",
                 "repo": "yew-nested-router",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "frontend",
+                  "router",
+                  "rust",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2170,12 +3510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A panic hook for frontend applications",
+                "homepage": null,
                 "id": 648567558,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-02T13:57:18Z",
+                "open_issues": 0,
                 "owner": "ctron",
                 "repo": "browser-panic-hook",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             }
@@ -2193,12 +3538,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+                "homepage": "https://wasm-bindgen.github.io/wasm-bindgen/",
                 "id": 114685405,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:19:03Z",
+                "open_issues": 556,
                 "owner": "wasm-bindgen",
                 "repo": "wasm-bindgen",
-                "stars": 9129
+                "stars": 9129,
+                "topics": [
+                  "binding-generator",
+                  "javascript",
+                  "rust",
+                  "rust-wasm",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2209,12 +3565,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standard library for the client-side Web",
+                "homepage": null,
                 "id": 84753809,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-28T12:11:10Z",
+                "open_issues": 134,
                 "owner": "koute",
                 "repo": "stdweb",
-                "stars": 3453
+                "stars": 3453,
+                "topics": [
+                  "asmjs",
+                  "emscripten",
+                  "gui",
+                  "javascript",
+                  "rust",
+                  "web",
+                  "webasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             },
@@ -2225,12 +3595,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bindings to the Tauri API for projects using wasm-bindgen",
+                "homepage": null,
                 "id": 560446206,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-19T04:04:21Z",
+                "open_issues": 25,
                 "owner": "JonasKruckenberg",
                 "repo": "tauri-sys",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "rust",
+                  "tauri",
+                  "wasm",
+                  "wasm-bindgen",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             }
@@ -2248,12 +3629,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework experience for Yew.",
+                "homepage": null,
                 "id": 573926268,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-01T19:36:02Z",
+                "open_issues": 16,
                 "owner": "futursolo",
                 "repo": "stellation",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "framework",
+                  "rust",
+                  "ssr",
+                  "yew"
+                ]
               },
               "first_seen": "2026-08-29T02:28:11.438Z"
             }
@@ -2275,12 +3666,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+            "homepage": "https://tauri.app",
             "id": 196701619,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:18:58Z",
+            "open_issues": 1454,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110630
+            "stars": 110631,
+            "topics": [
+              "desktop-app",
+              "high-performance",
+              "mobile-app",
+              "native-app",
+              "rust",
+              "web-frontend",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2291,12 +3695,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimizer and compiler/toolchain library for WebAssembly",
+            "homepage": null,
             "id": 45208608,
             "language": "WebAssembly",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:54:38Z",
+            "open_issues": 555,
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8614
+            "stars": 8614,
+            "topics": [
+              "c-plus-plus",
+              "compilers",
+              "emscripten",
+              "hacktoberfest",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2307,12 +3722,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The WebAssembly Binary Toolkit",
+            "homepage": null,
             "id": 42467830,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T07:26:02Z",
+            "open_issues": 230,
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8105
+            "stars": 8105,
+            "topics": [
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2323,12 +3745,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦✨ your favorite rust -> wasm workflow tool!",
+            "homepage": "https://wasm-bindgen.github.io/wasm-pack/",
             "id": 121253762,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T18:56:24Z",
+            "open_issues": 392,
             "owner": "wasm-bindgen",
             "repo": "wasm-pack",
-            "stars": 7284
+            "stars": 7284,
+            "topics": [
+              "cli",
+              "npm",
+              "package",
+              "registry",
+              "rust",
+              "rust-wasm",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2339,12 +3774,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build, bundle & ship your Rust WASM application to the web.",
+            "homepage": "https://trunk-rs.github.io/trunk/",
             "id": 288799056,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T09:35:02Z",
+            "open_issues": 135,
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4378
+            "stars": 4378,
+            "topics": [
+              "assets",
+              "build-tool",
+              "bundler",
+              "compiler",
+              "html",
+              "rust",
+              "sass",
+              "scss",
+              "wasm",
+              "wasm-bindgen"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2355,12 +3806,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cargo subcommand for the client-side Web",
+            "homepage": null,
             "id": 81644132,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-29T04:25:09Z",
+            "open_issues": 107,
             "owner": "koute",
             "repo": "cargo-web",
-            "stars": 1111
+            "stars": 1111,
+            "topics": [
+              "asmjs",
+              "emscripten",
+              "rust",
+              "web",
+              "webasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2371,12 +3834,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install `wasm-pack` by downloading the executable",
+            "homepage": "https://github.com/marketplace/actions/wasm-pack-action",
             "id": 244578171,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-03T13:52:12Z",
+            "open_issues": 20,
             "owner": "jetli",
             "repo": "wasm-pack-action",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "github-action",
+              "rust",
+              "wasm",
+              "wasm-bindgen",
+              "wasm-pack",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2387,12 +3863,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install `Trunk` by downloading the executable",
+            "homepage": "https://github.com/marketplace/actions/trunk-action",
             "id": 336251832,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-18T09:56:47Z",
+            "open_issues": 2,
             "owner": "jetli",
             "repo": "trunk-action",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "rust",
+              "seed",
+              "trunk",
+              "webassembly",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2403,12 +3890,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code formatter for the Yew framework",
+            "homepage": "https://crates.io/crates/yew-fmt",
             "id": 722197713,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-07-16T11:55:49Z",
+            "open_issues": 3,
             "owner": "its-the-shrimp",
             "repo": "yew-fmt",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "dev-tools",
+              "formatter",
+              "rust",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2419,12 +3916,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install `wasm-bindgen` by downloading the executable",
+            "homepage": "https://github.com/marketplace/actions/wasm-bindgen-action",
             "id": 306516921,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-03T20:42:55Z",
+            "open_issues": 23,
             "owner": "jetli",
             "repo": "wasm-bindgen-action",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "rust",
+              "wasm",
+              "wasm-bindgen",
+              "yew"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         }
@@ -2441,12 +3948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2457,12 +3969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2473,12 +3990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2489,12 +4011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2505,12 +4032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2521,12 +4053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2537,12 +4074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2553,12 +4095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2569,12 +4116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2585,12 +4137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289890644,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-19T15:40:52Z",
+            "open_issues": 0,
             "owner": "steadylearner",
             "repo": "blog",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         }
@@ -2607,12 +4164,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fullstack app framework for web, desktop, and mobile.",
+            "homepage": "https://dioxuslabs.com",
             "id": 329782568,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:55:20Z",
+            "open_issues": 754,
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 38904
+            "stars": 38904,
+            "topics": [
+              "android",
+              "css",
+              "desktop",
+              "html",
+              "ios",
+              "native",
+              "react",
+              "rust",
+              "ssr",
+              "ui",
+              "virtualdom",
+              "wasm",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2623,12 +4199,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build fast web applications with Rust.",
+            "homepage": "https://leptos.dev",
             "id": 519882617,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:14:53Z",
+            "open_issues": 131,
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21246
+            "stars": 21246,
+            "topics": [
+              "dom",
+              "fine-grained",
+              "isomorphic",
+              "reactive",
+              "rust",
+              "ssr",
+              "web",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2639,12 +4229,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust framework for creating web apps",
+            "homepage": null,
             "id": 159957569,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-01-11T09:42:45Z",
+            "open_issues": 55,
             "owner": "seed-rs",
             "repo": "seed",
-            "stars": 3836
+            "stars": 3836,
+            "topics": [
+              "frontend-framework",
+              "rust",
+              "wasm",
+              "wasm-bindgen",
+              "web-framework",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2655,12 +4257,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for creating reactive web apps in Rust and WebAssembly",
+            "homepage": "https://sycamore.dev",
             "id": 344917688,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-22T00:50:02Z",
+            "open_issues": 34,
             "owner": "sycamore-rs",
             "repo": "sycamore",
-            "stars": 3344
+            "stars": 3344,
+            "topics": [
+              "fine-grained-reactivity",
+              "rust",
+              "signals",
+              "sycamore",
+              "ui",
+              "wasm",
+              "web-assembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2671,12 +4286,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.",
+            "homepage": "https://chinedufn.github.io/percy/",
             "id": 141128198,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T00:27:33Z",
+            "open_issues": 44,
             "owner": "chinedufn",
             "repo": "percy",
-            "stars": 2315
+            "stars": 2315,
+            "topics": [
+              "browser",
+              "frontend",
+              "virtual-dom",
+              "wasm",
+              "web",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2687,12 +4314,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A versatile web framework and library for building client-side and server-side web applications",
+            "homepage": null,
             "id": 181514298,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-01-27T11:51:25Z",
+            "open_issues": 7,
             "owner": "ivanceras",
             "repo": "sauron",
-            "stars": 2066
+            "stars": 2066,
+            "topics": [
+              "dom",
+              "elm",
+              "html",
+              "react",
+              "ssr",
+              "vdom",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2703,12 +4343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for building WebAssembly apps in Rust",
+            "homepage": "https://www.smithy.rs",
             "id": 140975274,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-02-20T03:37:33Z",
+            "open_issues": 7,
             "owner": "rbalicki2",
             "repo": "smithy",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2719,12 +4364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draco is a Rust library for building client side web applications with Web Assembly.",
+            "homepage": null,
             "id": 154799697,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-03T07:36:23Z",
+            "open_issues": 16,
             "owner": "utkarshkukreti",
             "repo": "draco",
-            "stars": 304
+            "stars": 304,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         }
@@ -2741,12 +4391,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Rust code and resources.",
+            "homepage": null,
             "id": 21938243,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T11:12:13Z",
+            "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59030
+            "stars": 59031,
+            "topics": [
+              "awesome",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2757,12 +4415,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.",
+            "homepage": null,
             "id": 89355243,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-11-15T14:58:04Z",
+            "open_issues": 95,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9632
+            "stars": 9632,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-wasm",
+              "awesome-webassembly",
+              "list",
+              "lists",
+              "resources",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2773,12 +4446,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Awesome Rust and WebAssembly projects, libraries, tools, and resources",
+            "homepage": null,
             "id": 148698182,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-08-31T07:48:04Z",
+            "open_issues": 9,
             "owner": "rustwasm",
             "repo": "awesome-rust-and-webassembly",
-            "stars": 667
+            "stars": 667,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         }
@@ -2787,15 +4465,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:28:11.438Z",
+    "last_updated": "2026-08-29T04:27:54.484Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
+      "homepage": "https://yew.rs/",
       "id": 228514103,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-28T09:26:58Z",
+      "open_issues": 3,
       "owner": "jetli",
       "repo": "awesome-yew",
-      "stars": 1612
+      "stars": 1612,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "rust",
+        "wasm",
+        "webassembly",
+        "yew",
+        "yew-framework"
+      ]
     },
     "original_repository_sha": "33d03a7b3eaf0b8feed3066fbd5c82d4caca06e4",
     "enhanced_repository": "enhansome/enhansome-yew",
