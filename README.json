@@ -95,7 +95,7 @@
             "open_issues": 894,
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 20970,
+            "stars": 20976,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -112,11 +112,11 @@
             "id": 615853935,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T16:54:00Z",
-            "open_issues": 182,
+            "last_commit": "2026-08-30T16:43:09Z",
+            "open_issues": 187,
             "owner": "apache",
             "repo": "iggy",
-            "stars": 4601,
+            "stars": 4619,
             "topics": [
               "apache",
               "http",
@@ -178,7 +178,7 @@
             "open_issues": 73,
             "owner": "security-union",
             "repo": "videocall-rs",
-            "stars": 1784,
+            "stars": 1785,
             "topics": [
               "actix-web",
               "google-meets",
@@ -253,7 +253,7 @@
             "open_issues": 7,
             "owner": "emanuele-em",
             "repo": "proxelar",
-            "stars": 1050,
+            "stars": 1051,
             "topics": [
               "cli",
               "http-proxy",
@@ -287,10 +287,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-08-10T13:26:14Z",
-            "open_issues": 149,
+            "open_issues": 150,
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 971,
+            "stars": 970,
             "topics": [
               "fastapi",
               "hacktoberfest",
@@ -1623,8 +1623,8 @@
             "id": 588184956,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T19:43:13Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-30T21:37:42Z",
+            "open_issues": 3,
             "owner": "celestia-island",
             "repo": "hikari",
             "stars": 23,
@@ -3672,10 +3672,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:18:58Z",
-            "open_issues": 1464,
+            "open_issues": 1466,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110645,
+            "stars": 110687,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -3727,11 +3727,11 @@
             "id": 42467830,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T07:26:02Z",
+            "last_commit": "2026-08-30T21:09:45Z",
             "open_issues": 230,
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8106,
+            "stars": 8109,
             "topics": [
               "webassembly"
             ]
@@ -3780,10 +3780,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T09:35:02Z",
-            "open_issues": 135,
+            "open_issues": 136,
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4380,
+            "stars": 4382,
             "topics": [
               "assets",
               "build-tool",
@@ -4170,10 +4170,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:55:20Z",
-            "open_issues": 753,
+            "open_issues": 754,
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 38906,
+            "stars": 38920,
             "topics": [
               "android",
               "css",
@@ -4208,7 +4208,7 @@
             "open_issues": 131,
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21247,
+            "stars": 21248,
             "topics": [
               "dom",
               "fine-grained",
@@ -4262,7 +4262,7 @@
             "id": 344917688,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-22T00:50:02Z",
+            "last_commit": "2026-08-30T00:46:08Z",
             "open_issues": 34,
             "owner": "sycamore-rs",
             "repo": "sycamore",
@@ -4396,11 +4396,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-29T15:01:55Z",
+            "last_commit": "2026-08-30T21:10:19Z",
             "open_issues": 7,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59046,
+            "stars": 59066,
             "topics": [
               "awesome",
               "rust"
@@ -4465,7 +4465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:59:48.135Z",
+    "last_updated": "2026-08-30T22:06:40.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
