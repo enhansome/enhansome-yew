@@ -19,7 +19,7 @@
             "open_issues": 120,
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32805,
+            "stars": 32808,
             "topics": [
               "asmjs",
               "concurrency",
@@ -54,7 +54,7 @@
             "open_issues": 120,
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32805,
+            "stars": 32808,
             "topics": [
               "asmjs",
               "concurrency",
@@ -92,10 +92,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T12:48:47Z",
-            "open_issues": 908,
+            "open_issues": 910,
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 21079,
+            "stars": 21080,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -113,10 +113,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T12:28:44Z",
-            "open_issues": 195,
+            "open_issues": 205,
             "owner": "apache",
             "repo": "iggy",
-            "stars": 4909,
+            "stars": 4914,
             "topics": [
               "apache",
               "http",
@@ -253,7 +253,7 @@
             "open_issues": 3,
             "owner": "emanuele-em",
             "repo": "proxelar",
-            "stars": 1069,
+            "stars": 1071,
             "topics": [
               "cli",
               "http-proxy",
@@ -290,7 +290,7 @@
             "open_issues": 151,
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 990,
+            "stars": 991,
             "topics": [
               "fastapi",
               "hacktoberfest",
@@ -436,7 +436,7 @@
             "open_issues": 3,
             "owner": "opensourcecheemsburgers",
             "repo": "ubiquity",
-            "stars": 298,
+            "stars": 297,
             "topics": [
               "daisyui",
               "markdown",
@@ -613,7 +613,7 @@
             "open_issues": 8,
             "owner": "jplatte",
             "repo": "caniuse.rs",
-            "stars": 185,
+            "stars": 184,
             "topics": [
               "hacktoberfest",
               "rust"
@@ -859,35 +859,6 @@
         },
         {
           "node_type": "item",
-          "title": "CubeShuffle",
-          "description": "Card game shuffling utility built with Rust, Yew, Bulma and Tauri.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Draft cube shuffle utility",
-            "homepage": null,
-            "id": 432368255,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-08-15T12:12:00Z",
-            "open_issues": 29,
-            "owner": "philipborg",
-            "repo": "CubeShuffle",
-            "stars": 108,
-            "topics": [
-              "card-game",
-              "cube",
-              "magic-the-gathering",
-              "mtg",
-              "shuffle",
-              "tauri",
-              "yew"
-            ]
-          },
-          "first_seen": "2026-08-29T02:28:11.438Z"
-        },
-        {
-          "node_type": "item",
           "title": "web-view todomvc desktop app",
           "description": "Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(~2mb) desktop app by web-view, as an alternative to Electron, web-view also has a demo.",
           "children": [],
@@ -909,6 +880,35 @@
               "todomvc",
               "wasm",
               "webview"
+            ]
+          },
+          "first_seen": "2026-08-29T02:28:11.438Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CubeShuffle",
+          "description": "Card game shuffling utility built with Rust, Yew, Bulma and Tauri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Draft cube shuffle utility",
+            "homepage": null,
+            "id": 432368255,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-15T12:12:00Z",
+            "open_issues": 29,
+            "owner": "philipborg",
+            "repo": "CubeShuffle",
+            "stars": 107,
+            "topics": [
+              "card-game",
+              "cube",
+              "magic-the-gathering",
+              "mtg",
+              "shuffle",
+              "tauri",
+              "yew"
             ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -960,7 +960,7 @@
             "open_issues": 3,
             "owner": "syre-data",
             "repo": "syre",
-            "stars": 102,
+            "stars": 101,
             "topics": [
               "science"
             ]
@@ -1623,8 +1623,8 @@
             "id": 588184956,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T17:32:45Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-20T16:17:56Z",
+            "open_issues": 1,
             "owner": "celestia-island",
             "repo": "hikari",
             "stars": 23,
@@ -3671,11 +3671,11 @@
             "id": 196701619,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T20:43:40Z",
+            "last_commit": "2026-09-20T20:02:01Z",
             "open_issues": 1464,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 111195,
+            "stars": 111213,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -3701,10 +3701,10 @@
             "language": "WebAssembly",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T16:51:26Z",
-            "open_issues": 562,
+            "open_issues": 566,
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8628,
+            "stars": 8629,
             "topics": [
               "c-plus-plus",
               "compilers",
@@ -3731,7 +3731,7 @@
             "open_issues": 233,
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8134,
+            "stars": 8135,
             "topics": [
               "webassembly"
             ]
@@ -4169,11 +4169,11 @@
             "id": 329782568,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T12:37:45Z",
-            "open_issues": 786,
+            "last_commit": "2026-09-20T15:37:23Z",
+            "open_issues": 785,
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 39182,
+            "stars": 39195,
             "topics": [
               "android",
               "css",
@@ -4204,11 +4204,11 @@
             "id": 519882617,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T17:44:18Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-20T19:12:37Z",
+            "open_issues": 121,
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21296,
+            "stars": 21300,
             "topics": [
               "dom",
               "fine-grained",
@@ -4266,7 +4266,7 @@
             "open_issues": 34,
             "owner": "sycamore-rs",
             "repo": "sycamore",
-            "stars": 3354,
+            "stars": 3356,
             "topics": [
               "fine-grained-reactivity",
               "rust",
@@ -4396,11 +4396,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-19T19:44:35Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-20T21:47:36Z",
+            "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59438,
+            "stars": 59459,
             "topics": [
               "awesome",
               "rust"
@@ -4424,7 +4424,7 @@
             "open_issues": 101,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9641,
+            "stars": 9643,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4465,7 +4465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:47:37.322Z",
+    "last_updated": "2026-09-20T21:53:28.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
@@ -4477,7 +4477,7 @@
       "open_issues": 3,
       "owner": "jetli",
       "repo": "awesome-yew",
-      "stars": 1617,
+      "stars": 1616,
       "topics": [
         "awesome",
         "awesome-list",
