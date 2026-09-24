@@ -15,11 +15,11 @@
             "id": 114466145,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T03:19:36Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-24T19:54:52Z",
+            "open_issues": 122,
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32817,
+            "stars": 32818,
             "topics": [
               "asmjs",
               "concurrency",
@@ -50,11 +50,11 @@
             "id": 114466145,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T03:19:36Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-24T19:54:52Z",
+            "open_issues": 122,
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32817,
+            "stars": 32818,
             "topics": [
               "asmjs",
               "concurrency",
@@ -91,11 +91,11 @@
             "id": 655797848,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T13:42:18Z",
-            "open_issues": 911,
+            "last_commit": "2026-09-24T15:33:56Z",
+            "open_issues": 903,
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 21096,
+            "stars": 21098,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -112,11 +112,11 @@
             "id": 615853935,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T20:06:20Z",
-            "open_issues": 209,
+            "last_commit": "2026-09-24T20:05:35Z",
+            "open_issues": 223,
             "owner": "apache",
             "repo": "iggy",
-            "stars": 4934,
+            "stars": 4941,
             "topics": [
               "apache",
               "http",
@@ -142,7 +142,7 @@
             "id": 136712523,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T05:48:28Z",
+            "last_commit": "2026-09-24T04:40:39Z",
             "open_issues": 0,
             "owner": "saschagrunert",
             "repo": "webapp.rs",
@@ -290,7 +290,7 @@
             "open_issues": 152,
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 992,
+            "stars": 995,
             "topics": [
               "fastapi",
               "hacktoberfest",
@@ -349,8 +349,8 @@
             "id": 117757315,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T17:49:59Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-24T21:10:06Z",
+            "open_issues": 96,
             "owner": "getsentry",
             "repo": "relay",
             "stars": 397,
@@ -1578,6 +1578,32 @@
         },
         {
           "node_type": "item",
+          "title": "Hikari",
+          "description": "The Frontend of Everything.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Rust UI framework built on WASI.",
+            "homepage": "https://hikari.docs.celestia.world",
+            "id": 588184956,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-24T18:55:38Z",
+            "open_issues": 0,
+            "owner": "celestia-island",
+            "repo": "hikari",
+            "stars": 24,
+            "topics": [
+              "engine",
+              "frontend",
+              "rust",
+              "website"
+            ]
+          },
+          "first_seen": "2026-08-29T02:28:11.438Z"
+        },
+        {
+          "node_type": "item",
           "title": "scap-rs",
           "description": "National Vulnerability Database (NVD) implemented by Rust, Live Demo.",
           "children": [],
@@ -1607,32 +1633,6 @@
               "rust",
               "scap",
               "yew"
-            ]
-          },
-          "first_seen": "2026-08-29T02:28:11.438Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Hikari",
-          "description": "The Frontend of Everything.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Rust UI framework built on WASI.",
-            "homepage": "https://hikari.docs.celestia.world",
-            "id": 588184956,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-23T20:45:11Z",
-            "open_issues": 0,
-            "owner": "celestia-island",
-            "repo": "hikari",
-            "stars": 23,
-            "topics": [
-              "engine",
-              "frontend",
-              "rust",
-              "website"
             ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -3543,11 +3543,11 @@
                 "id": 114685405,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T19:26:30Z",
-                "open_issues": 556,
+                "last_commit": "2026-09-24T22:43:46Z",
+                "open_issues": 552,
                 "owner": "wasm-bindgen",
                 "repo": "wasm-bindgen",
-                "stars": 9156,
+                "stars": 9158,
                 "topics": [
                   "binding-generator",
                   "javascript",
@@ -3671,11 +3671,11 @@
             "id": 196701619,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T19:10:55Z",
-            "open_issues": 1491,
+            "last_commit": "2026-09-24T18:00:13Z",
+            "open_issues": 1493,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 111315,
+            "stars": 111378,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -3700,11 +3700,11 @@
             "id": 45208608,
             "language": "WebAssembly",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T22:24:56Z",
-            "open_issues": 570,
+            "last_commit": "2026-09-24T17:36:36Z",
+            "open_issues": 567,
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8635,
+            "stars": 8638,
             "topics": [
               "c-plus-plus",
               "compilers",
@@ -3731,7 +3731,7 @@
             "open_issues": 232,
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8138,
+            "stars": 8141,
             "topics": [
               "webassembly"
             ]
@@ -4169,11 +4169,11 @@
             "id": 329782568,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T12:33:02Z",
-            "open_issues": 793,
+            "last_commit": "2026-09-24T22:42:06Z",
+            "open_issues": 797,
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 39224,
+            "stars": 39238,
             "topics": [
               "android",
               "css",
@@ -4208,7 +4208,7 @@
             "open_issues": 121,
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21313,
+            "stars": 21318,
             "topics": [
               "dom",
               "fine-grained",
@@ -4396,11 +4396,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-22T05:49:01Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-24T15:57:56Z",
+            "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59513,
+            "stars": 59528,
             "topics": [
               "awesome",
               "rust"
@@ -4421,7 +4421,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-11-15T14:58:04Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "mbasso",
             "repo": "awesome-wasm",
             "stars": 9645,
@@ -4465,7 +4465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:27:44.552Z",
+    "last_updated": "2026-09-24T22:44:30.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
