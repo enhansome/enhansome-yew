@@ -95,7 +95,7 @@
             "open_issues": 911,
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 21133,
+            "stars": 21134,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -112,11 +112,11 @@
             "id": 615853935,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T22:35:57Z",
+            "last_commit": "2026-10-03T04:44:53Z",
             "open_issues": 221,
             "owner": "apache",
             "repo": "iggy",
-            "stars": 5006,
+            "stars": 5007,
             "topics": [
               "apache",
               "http",
@@ -290,7 +290,7 @@
             "open_issues": 156,
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 1001,
+            "stars": 1002,
             "topics": [
               "fastapi",
               "hacktoberfest",
@@ -349,8 +349,8 @@
             "id": 117757315,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T22:38:36Z",
-            "open_issues": 93,
+            "last_commit": "2026-10-02T23:37:28Z",
+            "open_issues": 94,
             "owner": "getsentry",
             "repo": "relay",
             "stars": 401,
@@ -2513,7 +2513,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2024-06-30T19:39:31Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "thedodd",
                 "repo": "ybc",
                 "stars": 256,
@@ -3146,7 +3146,7 @@
                 "open_issues": 19,
                 "owner": "plotly",
                 "repo": "plotly.rs",
-                "stars": 1455,
+                "stars": 1456,
                 "topics": [
                   "barchart",
                   "candlestick-chart",
@@ -3544,7 +3544,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T07:01:33Z",
-                "open_issues": 559,
+                "open_issues": 560,
                 "owner": "wasm-bindgen",
                 "repo": "wasm-bindgen",
                 "stars": 9172,
@@ -3675,7 +3675,7 @@
             "open_issues": 1476,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 111558,
+            "stars": 111560,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -3700,8 +3700,8 @@
             "id": 45208608,
             "language": "WebAssembly",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:33:00Z",
-            "open_issues": 578,
+            "last_commit": "2026-10-03T00:20:38Z",
+            "open_issues": 580,
             "owner": "WebAssembly",
             "repo": "binaryen",
             "stars": 8649,
@@ -3944,7 +3944,7 @@
         {
           "node_type": "item",
           "title": "How to use Rust Yew",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3965,7 +3965,7 @@
         {
           "node_type": "item",
           "title": "How to use a modal in Rust",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3986,7 +3986,7 @@
         {
           "node_type": "item",
           "title": "How to use routers in Rust Frontend",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4007,7 +4007,7 @@
         {
           "node_type": "item",
           "title": "How to modulize your Rust Frontend",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4028,7 +4028,7 @@
         {
           "node_type": "item",
           "title": "How to use NPM packages with Rust Frontend",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4049,7 +4049,7 @@
         {
           "node_type": "item",
           "title": "How to use markdown with Rust Frontend",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4070,7 +4070,7 @@
         {
           "node_type": "item",
           "title": "Fullstack Rust with Yew",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4091,7 +4091,7 @@
         {
           "node_type": "item",
           "title": "How to write Full Stack Rust code",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4112,7 +4112,7 @@
         {
           "node_type": "item",
           "title": "How to render a YouTube vlog with Rust Yew fetch API",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4133,7 +4133,7 @@
         {
           "node_type": "item",
           "title": "How to render blog posts with Rust Yew mounted API",
-          "description": null,
+          "description": "steadylearner/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4173,7 +4173,7 @@
             "open_issues": 805,
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 39317,
+            "stars": 39318,
             "topics": [
               "android",
               "css",
@@ -4208,7 +4208,7 @@
             "open_issues": 111,
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21352,
+            "stars": 21353,
             "topics": [
               "dom",
               "fine-grained",
@@ -4400,7 +4400,7 @@
             "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59647,
+            "stars": 59657,
             "topics": [
               "awesome",
               "rust"
@@ -4465,7 +4465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:17:29.701Z",
+    "last_updated": "2026-10-03T05:14:35.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
