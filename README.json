@@ -19,7 +19,7 @@
             "open_issues": 122,
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32821,
+            "stars": 32822,
             "topics": [
               "asmjs",
               "concurrency",
@@ -53,7 +53,7 @@
             "open_issues": 122,
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32821,
+            "stars": 32822,
             "topics": [
               "asmjs",
               "concurrency",
@@ -89,11 +89,11 @@
             "id": 655797848,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T12:07:17Z",
+            "last_commit": "2026-10-13T09:26:45Z",
             "open_issues": 923,
             "owner": "huggingface",
             "repo": "candle",
-            "stars": 21166,
+            "stars": 21167,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -110,11 +110,11 @@
             "id": 615853935,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T20:41:06Z",
-            "open_issues": 241,
+            "last_commit": "2026-10-13T21:07:55Z",
+            "open_issues": 258,
             "owner": "apache",
             "repo": "iggy",
-            "stars": 5072,
+            "stars": 5080,
             "topics": [
               "apache",
               "http",
@@ -144,7 +144,7 @@
             "open_issues": 0,
             "owner": "saschagrunert",
             "repo": "webapp.rs",
-            "stars": 2250,
+            "stars": 2251,
             "topics": [
               "actix-web",
               "backend",
@@ -251,7 +251,7 @@
             "open_issues": 1,
             "owner": "emanuele-em",
             "repo": "proxelar",
-            "stars": 1076,
+            "stars": 1078,
             "topics": [
               "cli",
               "http-proxy",
@@ -288,7 +288,7 @@
             "open_issues": 157,
             "owner": "madeofpendletonwool",
             "repo": "PinePods",
-            "stars": 1018,
+            "stars": 1019,
             "topics": [
               "fastapi",
               "hacktoberfest",
@@ -347,8 +347,8 @@
             "id": 117757315,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T21:25:24Z",
-            "open_issues": 98,
+            "last_commit": "2026-10-13T19:01:02Z",
+            "open_issues": 99,
             "owner": "getsentry",
             "repo": "relay",
             "stars": 402,
@@ -550,8 +550,8 @@
             "id": 599598236,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T11:57:05Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-13T10:09:47Z",
+            "open_issues": 58,
             "owner": "google",
             "repo": "wasefire",
             "stars": 191,
@@ -799,37 +799,6 @@
         },
         {
           "node_type": "item",
-          "title": "Rust algorithms",
-          "description": "A website with interactive implementations of various algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Various algorithms visualized interactively on the web, entirely with Rust 🦀",
-            "homepage": "https://algorust.dev",
-            "id": 456622886,
-            "language": "Rust",
-            "license": null,
-            "last_commit": "2024-07-17T15:10:02Z",
-            "open_issues": 1,
-            "owner": "Jondolf",
-            "repo": "Algorust",
-            "stars": 129,
-            "topics": [
-              "algorithm",
-              "algorithms",
-              "pathfinding",
-              "rust",
-              "rust-web",
-              "sorting-algorithms",
-              "visualization",
-              "wasm",
-              "yew"
-            ]
-          },
-          "first_seen": "2026-08-29T02:28:11.438Z"
-        },
-        {
-          "node_type": "item",
           "title": "Yew-WebRTC-Chat",
           "description": "A simple WebRTC chat made with Yew.",
           "children": [],
@@ -850,6 +819,37 @@
               "rust",
               "wasm",
               "webrtc",
+              "yew"
+            ]
+          },
+          "first_seen": "2026-08-29T02:28:11.438Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rust algorithms",
+          "description": "A website with interactive implementations of various algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Various algorithms visualized interactively on the web, entirely with Rust 🦀",
+            "homepage": "https://algorust.dev",
+            "id": 456622886,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2024-07-17T15:10:02Z",
+            "open_issues": 1,
+            "owner": "Jondolf",
+            "repo": "Algorust",
+            "stars": 128,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "pathfinding",
+              "rust",
+              "rust-web",
+              "sorting-algorithms",
+              "visualization",
+              "wasm",
               "yew"
             ]
           },
@@ -1544,7 +1544,7 @@
             "id": 588184956,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T23:10:43Z",
+            "last_commit": "2026-10-13T17:15:54Z",
             "open_issues": 0,
             "owner": "celestia-island",
             "repo": "hikari",
@@ -1554,6 +1554,41 @@
               "frontend",
               "rust",
               "website"
+            ]
+          },
+          "first_seen": "2026-08-29T02:28:11.438Z"
+        },
+        {
+          "node_type": "item",
+          "title": "scap-rs",
+          "description": "National Vulnerability Database (NVD) implemented by Rust, Live Demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "National Vulnerability Database (NVD) implemented by rust",
+            "homepage": "https://scap.kali-team.cn/",
+            "id": 609026135,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-05-01T07:54:15Z",
+            "open_issues": 15,
+            "owner": "emo-crab",
+            "repo": "scap-rs",
+            "stars": 25,
+            "topics": [
+              "actix-web",
+              "cpe",
+              "cve",
+              "cvss",
+              "cvssv3",
+              "cvssv4",
+              "cwe",
+              "exploit",
+              "nuclei-templates",
+              "nvd",
+              "rust",
+              "scap",
+              "yew"
             ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
@@ -1597,41 +1632,6 @@
             "repo": "yew-d3-example",
             "stars": 24,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:28:11.438Z"
-        },
-        {
-          "node_type": "item",
-          "title": "scap-rs",
-          "description": "National Vulnerability Database (NVD) implemented by Rust, Live Demo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "National Vulnerability Database (NVD) implemented by rust",
-            "homepage": "https://scap.kali-team.cn/",
-            "id": 609026135,
-            "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-05-01T07:54:15Z",
-            "open_issues": 15,
-            "owner": "emo-crab",
-            "repo": "scap-rs",
-            "stars": 24,
-            "topics": [
-              "actix-web",
-              "cpe",
-              "cve",
-              "cvss",
-              "cvssv3",
-              "cvssv4",
-              "cwe",
-              "exploit",
-              "nuclei-templates",
-              "nvd",
-              "rust",
-              "scap",
-              "yew"
-            ]
           },
           "first_seen": "2026-08-29T02:28:11.438Z"
         },
@@ -2544,7 +2544,7 @@
                 "open_issues": 15,
                 "owner": "ranile",
                 "repo": "material-yew",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "material-components",
                   "material-design",
@@ -3541,11 +3541,11 @@
                 "id": 114685405,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T15:54:44Z",
-                "open_issues": 549,
+                "last_commit": "2026-10-13T20:59:44Z",
+                "open_issues": 550,
                 "owner": "wasm-bindgen",
                 "repo": "wasm-bindgen",
-                "stars": 9185,
+                "stars": 9187,
                 "topics": [
                   "binding-generator",
                   "javascript",
@@ -3572,7 +3572,7 @@
                 "open_issues": 134,
                 "owner": "koute",
                 "repo": "stdweb",
-                "stars": 3451,
+                "stars": 3452,
                 "topics": [
                   "asmjs",
                   "emscripten",
@@ -3669,11 +3669,11 @@
             "id": 196701619,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T20:20:45Z",
-            "open_issues": 1499,
+            "last_commit": "2026-10-13T22:45:27Z",
+            "open_issues": 1489,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 111815,
+            "stars": 111874,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -3698,11 +3698,11 @@
             "id": 45208608,
             "language": "WebAssembly",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T23:33:50Z",
-            "open_issues": 580,
+            "last_commit": "2026-10-13T23:08:47Z",
+            "open_issues": 581,
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8656,
+            "stars": 8658,
             "topics": [
               "c-plus-plus",
               "compilers",
@@ -3725,11 +3725,11 @@
             "id": 42467830,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T04:32:45Z",
+            "last_commit": "2026-10-13T22:34:45Z",
             "open_issues": 235,
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8154,
+            "stars": 8159,
             "topics": [
               "webassembly"
             ]
@@ -3752,7 +3752,7 @@
             "open_issues": 396,
             "owner": "wasm-bindgen",
             "repo": "wasm-pack",
-            "stars": 7285,
+            "stars": 7286,
             "topics": [
               "cli",
               "npm",
@@ -3781,7 +3781,7 @@
             "open_issues": 137,
             "owner": "trunk-rs",
             "repo": "trunk",
-            "stars": 4405,
+            "stars": 4406,
             "topics": [
               "assets",
               "build-tool",
@@ -4168,10 +4168,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T23:03:48Z",
-            "open_issues": 826,
+            "open_issues": 828,
             "owner": "DioxusLabs",
             "repo": "dioxus",
-            "stars": 39378,
+            "stars": 39383,
             "topics": [
               "android",
               "css",
@@ -4202,11 +4202,11 @@
             "id": 519882617,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-12T15:08:07Z",
-            "open_issues": 114,
+            "last_commit": "2026-10-13T22:42:24Z",
+            "open_issues": 119,
             "owner": "leptos-rs",
             "repo": "leptos",
-            "stars": 21380,
+            "stars": 21388,
             "topics": [
               "dom",
               "fine-grained",
@@ -4293,7 +4293,7 @@
             "open_issues": 44,
             "owner": "chinedufn",
             "repo": "percy",
-            "stars": 2313,
+            "stars": 2314,
             "topics": [
               "browser",
               "frontend",
@@ -4321,7 +4321,7 @@
             "open_issues": 7,
             "owner": "ivanceras",
             "repo": "sauron",
-            "stars": 2065,
+            "stars": 2066,
             "topics": [
               "dom",
               "elm",
@@ -4394,11 +4394,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-12T21:37:31Z",
+            "last_commit": "2026-10-13T16:06:45Z",
             "open_issues": 10,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59813,
+            "stars": 59838,
             "topics": [
               "awesome",
               "rust"
@@ -4419,7 +4419,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-09T05:19:38Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "mbasso",
             "repo": "awesome-wasm",
             "stars": 9650,
@@ -4463,7 +4463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:38:17.046Z",
+    "last_updated": "2026-10-13T23:26:54.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of awesome things related to Yew / WebAssembly.",
